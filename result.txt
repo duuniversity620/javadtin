@@ -1,13 +1,43 @@
-Volume in drive C has no label.
- Volume Serial Number is 9C2C-7603
+Windows IP Configuration
 
- Directory of C:\Users\Bravo\Desktop\dist
 
-06/13/2026  03:50 PM    <DIR>          .
-06/13/2026  03:50 PM    <DIR>          ..
-06/13/2026  03:50 PM        12,461,826 commandexec.exe
-06/13/2026  02:37 PM         9,020,496 copy_folder.exe
-06/13/2026  02:30 PM         9,018,601 hello.exe
-06/13/2026  03:17 PM         8,893,557 upload_to_github.exe
-               4 File(s)     39,394,480 bytes
-               2 Dir(s)  122,228,027,392 bytes free
+Ethernet adapter vEthernet (MEmuSwitch):
+
+   Connection-specific DNS Suffix  . : 
+   Link-local IPv6 Address . . . . . : fe80::c6d5:81ca:10bb:d12e%37
+   IPv4 Address. . . . . . . . . . . : 172.18.224.1
+   Subnet Mask . . . . . . . . . . . : 255.255.240.0
+   Default Gateway . . . . . . . . . : 
+
+Wireless LAN adapter Local Area Connection* 1:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+
+Wireless LAN adapter Local Area Connection* 10:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+
+Wireless LAN adapter WiFi:
+
+   Connection-specific DNS Suffix  . : 
+   IPv6 Address. . . . . . . . . . . : 2402:ad80:1f4:647d:e08:a5e:3e54:b146
+   Temporary IPv6 Address. . . . . . : 2402:ad80:1f4:647d:b5b2:9168:e7f2:df9
+   IPv6 Address. . . . . . . . . . . : 2402:ad80:1f9:f0bc:24e3:fbda:b152:e179
+   Temporary IPv6 Address. . . . . . : 2402:ad80:1f9:f0bc:b5b2:9168:e7f2:df9
+   Link-local IPv6 Address . . . . . : fe80::d1fa:3efa:975b:243%16
+   IPv4 Address. . . . . . . . . . . : 10.149.28.1
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Default Gateway . . . . . . . . . : fe80::6c0c:b3ff:fe62:5c74%16
+                                       10.149.28.28
+
+Ethernet adapter Bluetooth Network Connection:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+
+Ethernet adapter Ethernet:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . :
