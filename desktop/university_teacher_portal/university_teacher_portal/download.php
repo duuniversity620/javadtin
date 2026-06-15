@@ -1,0 +1,3 @@
+<?php require 'config.php'; require_login(); $id=(int)($_GET['id']??0); $st=$pdo->prepare('SELECT * FROM works WHERE id=?'); $st->execute([$id]); $w=$st->fetch(); if(!$w || !$w['stored_name']) die('File not found');
+$ins=$pdo->prepare('INSERT INTO downloads(work_id,user_id,downloaded_at) VALUES(?,?,NOW())'); $ins->execute([$id,current_user()['id']]);
+$path=UPLOAD_DIR.$w['stored_name']; if(!is_file($path)) die('File missing'); header('Content-Type: application/octet-stream'); header('Content-Disposition: attachment; filename="'.basename($w['file_name']).'"'); header('Content-Length: '.filesize($path)); readfile($path); exit;
