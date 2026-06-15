@@ -1,0 +1,1097 @@
+{
+  "computer": "DESKTOP-Q1B7661",
+  "user": "Bravo",
+  "timestamp": "2026-06-15T09:34:21.449217",
+  "files": [
+    {
+      "path": "Apk Extractor.lnk",
+      "size": 2059,
+      "modified": "2026-04-21T17:03:59.393557"
+    },
+    {
+      "path": "assignment.docx",
+      "size": 13556,
+      "modified": "2026-05-17T18:39:20.434068"
+    },
+    {
+      "path": "Business Dynasty Zero to Hero.lnk",
+      "size": 2023,
+      "modified": "2026-04-20T13:36:39.965516"
+    },
+    {
+      "path": "commandexec.py",
+      "size": 3049,
+      "modified": "2026-06-13T15:46:15.511128"
+    },
+    {
+      "path": "commandexec.spec",
+      "size": 709,
+      "modified": "2026-06-13T18:22:35.177210"
+    },
+    {
+      "path": "copy_folder.py",
+      "size": 458,
+      "modified": "2026-06-13T14:36:25.328598"
+    },
+    {
+      "path": "copy_folder.spec",
+      "size": 709,
+      "modified": "2026-06-13T14:37:46.042413"
+    },
+    {
+      "path": "Decompile.lnk",
+      "size": 2063,
+      "modified": "2026-04-21T16:59:32.555129"
+    },
+    {
+      "path": "desktop.ini",
+      "size": 282,
+      "modified": "2026-04-08T10:18:46.939645"
+    },
+    {
+      "path": "DesktopSync.spec",
+      "size": 710,
+      "modified": "2026-06-15T09:23:19.135972"
+    },
+    {
+      "path": "desktop_sync.py",
+      "size": 8836,
+      "modified": "2026-06-13T18:34:18.622172"
+    },
+    {
+      "path": "Firefox.exe",
+      "size": 392320,
+      "modified": "2026-04-03T21:27:39.772676"
+    },
+    {
+      "path": "hello.py",
+      "size": 129,
+      "modified": "2026-06-13T14:26:59.163105"
+    },
+    {
+      "path": "hello.spec",
+      "size": 697,
+      "modified": "2026-06-13T14:30:15.277736"
+    },
+    {
+      "path": "Jadec.lnk",
+      "size": 2059,
+      "modified": "2026-04-21T17:03:16.955547"
+    },
+    {
+      "path": "MEmu.lnk",
+      "size": 927,
+      "modified": "2026-04-20T14:17:57.802765"
+    },
+    {
+      "path": "Multi-MEmu.lnk",
+      "size": 966,
+      "modified": "2026-04-20T14:17:57.618016"
+    },
+    {
+      "path": "Opera browser.lnk",
+      "size": 1380,
+      "modified": "2026-04-20T14:13:21.846864"
+    },
+    {
+      "path": "SecretChatProject_REGENERATED - Shortcut.lnk",
+      "size": 1165,
+      "modified": "2026-04-20T16:01:28.925876"
+    },
+    {
+      "path": "university_teacher_portal.zip",
+      "size": 11550,
+      "modified": "2026-05-17T17:14:26.611730"
+    },
+    {
+      "path": "upload_to_github.py",
+      "size": 1457,
+      "modified": "2026-06-13T15:33:43.047153"
+    },
+    {
+      "path": "upload_to_github.spec",
+      "size": 719,
+      "modified": "2026-06-13T15:17:31.864932"
+    },
+    {
+      "path": "11\\sd.txt",
+      "size": 59,
+      "modified": "2026-06-13T14:33:55.533888"
+    },
+    {
+      "path": "12\\sd.txt",
+      "size": 59,
+      "modified": "2026-06-13T14:33:55.533888"
+    },
+    {
+      "path": "13-5-2026\\13-05-2026-CID1.zip",
+      "size": 1812414,
+      "modified": "2026-05-13T12:02:21.298464"
+    },
+    {
+      "path": "13-5-2026\\13-05-2026-Samba.zip",
+      "size": 4800041,
+      "modified": "2026-05-13T12:03:59.760986"
+    },
+    {
+      "path": "13-5-2026\\13-05-2026-SBJ.zip",
+      "size": 2370084,
+      "modified": "2026-05-13T11:55:44.201231"
+    },
+    {
+      "path": "13-5-2026\\13-05-2026-CID1\\13-05-2026-CID1\\08.05.2026.docx",
+      "size": 19892,
+      "modified": "2026-05-13T11:42:26"
+    },
+    {
+      "path": "13-5-2026\\13-05-2026-CID1\\13-05-2026-CID1\\11.05.2026 (1).docx",
+      "size": 163632,
+      "modified": "2026-05-13T11:42:14"
+    },
+    {
+      "path": "13-5-2026\\13-05-2026-CID1\\13-05-2026-CID1\\11.05.2026.docx",
+      "size": 163632,
+      "modified": "2026-05-13T11:42:16"
+    },
+    {
+      "path": "13-5-2026\\13-05-2026-CID1\\13-05-2026-CID1\\Assessment report regarding visit of New Head of Radha Swami Satsang Beas, Amritsar, Sh. Jasdeep Singh Gill at Kali Bari, Kathua.docx",
+      "size": 360823,
+      "modified": "2026-05-13T11:42:18"
+    },
+    {
+      "path": "13-5-2026\\13-05-2026-CID1\\13-05-2026-CID1\\Daily SR.docx",
+      "size": 63871,
+      "modified": "2026-05-13T11:42:30"
+    },
+    {
+      "path": "13-5-2026\\13-05-2026-CID1\\13-05-2026-CID1\\Political Bulletin.docx",
+      "size": 113427,
+      "modified": "2026-05-13T11:42:10"
+    },
+    {
+      "path": "13-5-2026\\13-05-2026-CID1\\13-05-2026-CID1\\Specal report,,,,.docx",
+      "size": 16114,
+      "modified": "2026-05-13T11:42:22"
+    },
+    {
+      "path": "13-5-2026\\13-05-2026-CID1\\13-05-2026-CID1\\Special Report regarding media byte By SSP Kathua regarding death of Nakul Singh.doc",
+      "size": 48640,
+      "modified": "2026-05-13T11:42:28"
+    },
+    {
+      "path": "13-5-2026\\13-05-2026-CID1\\13-05-2026-CID1\\SR 11-05-2026.docx",
+      "size": 15633,
+      "modified": "2026-05-13T11:42:18"
+    },
+    {
+      "path": "13-5-2026\\13-05-2026-CID1\\13-05-2026-CID1\\SR Public Darbar by Sh Mehraj Malik.docx",
+      "size": 22976,
+      "modified": "2026-05-13T11:42:10"
+    },
+    {
+      "path": "13-5-2026\\13-05-2026-CID1\\13-05-2026-CID1\\SR Regarding Shortage of Staff-1.docx",
+      "size": 17160,
+      "modified": "2026-05-13T11:42:22"
+    },
+    {
+      "path": "13-5-2026\\13-05-2026-CID1\\13-05-2026-CID1\\SR(recovery of head and tail of bovine animal at simbol Chatroo) (1).docx",
+      "size": 106850,
+      "modified": "2026-05-13T11:42:24"
+    },
+    {
+      "path": "13-5-2026\\13-05-2026-CID1\\13-05-2026-CID1\\SR(recovery of head and tail of bovine animal at simbol Chatroo).docx",
+      "size": 101435,
+      "modified": "2026-05-13T11:42:26"
+    },
+    {
+      "path": "13-5-2026\\13-05-2026-CID1\\13-05-2026-CID1\\WhatsApp Image 2026-05-11 at 4.05.06 PM.jpeg",
+      "size": 167472,
+      "modified": "2026-05-13T11:42:20"
+    },
+    {
+      "path": "13-5-2026\\13-05-2026-CID1\\13-05-2026-CID1\\WhatsApp Image 2026-05-11 at 5.38.22 PM.jpeg",
+      "size": 522289,
+      "modified": "2026-05-13T11:42:12"
+    },
+    {
+      "path": "13-5-2026\\13-05-2026-Samba\\13-05-2026-Samba\\2026 Dr. SUMIT SHARMA Monthly Working Diary 2026 .docx",
+      "size": 503612,
+      "modified": "2026-05-13T10:51:48"
+    },
+    {
+      "path": "13-5-2026\\13-05-2026-Samba\\13-05-2026-Samba\\ajay .docx",
+      "size": 13333,
+      "modified": "2026-05-13T10:51:54"
+    },
+    {
+      "path": "13-5-2026\\13-05-2026-Samba\\13-05-2026-Samba\\camera.pdf",
+      "size": 482973,
+      "modified": "2026-05-13T10:51:36"
+    },
+    {
+      "path": "13-5-2026\\13-05-2026-Samba\\13-05-2026-Samba\\cow.pdf",
+      "size": 429855,
+      "modified": "2026-05-13T10:52:00"
+    },
+    {
+      "path": "13-5-2026\\13-05-2026-Samba\\13-05-2026-Samba\\dar dpl.pdf",
+      "size": 267600,
+      "modified": "2026-05-13T10:51:50"
+    },
+    {
+      "path": "13-5-2026\\13-05-2026-Samba\\13-05-2026-Samba\\format for all ps.docx",
+      "size": 13656,
+      "modified": "2026-05-13T10:51:46"
+    },
+    {
+      "path": "13-5-2026\\13-05-2026-Samba\\13-05-2026-Samba\\fsl.docx",
+      "size": 17405,
+      "modified": "2026-05-13T10:51:54"
+    },
+    {
+      "path": "13-5-2026\\13-05-2026-Samba\\13-05-2026-Samba\\List of charges of Nodal Officer.docx",
+      "size": 28038,
+      "modified": "2026-05-13T10:51:38"
+    },
+    {
+      "path": "13-5-2026\\13-05-2026-Samba\\13-05-2026-Samba\\Master File of PS Ghagwal.docx",
+      "size": 25985,
+      "modified": "2026-05-13T10:51:46"
+    },
+    {
+      "path": "13-5-2026\\13-05-2026-Samba\\13-05-2026-Samba\\mmmm.pdf",
+      "size": 279839,
+      "modified": "2026-05-13T10:52:02"
+    },
+    {
+      "path": "13-5-2026\\13-05-2026-Samba\\13-05-2026-Samba\\NU.docx",
+      "size": 17534,
+      "modified": "2026-05-13T10:51:56"
+    },
+    {
+      "path": "13-5-2026\\13-05-2026-Samba\\13-05-2026-Samba\\Parminder letters 2026.. R (Autosaved).docx",
+      "size": 2770294,
+      "modified": "2026-05-13T10:51:44"
+    },
+    {
+      "path": "13-5-2026\\13-05-2026-Samba\\13-05-2026-Samba\\Sri Guru Singh Sabha Duties Night Pehredar.docx",
+      "size": 35247,
+      "modified": "2026-05-13T10:51:52"
+    },
+    {
+      "path": "13-5-2026\\13-05-2026-Samba\\13-05-2026-Samba\\Vital Installations Drone Threat Ghagwal.docx",
+      "size": 14407,
+      "modified": "2026-05-13T10:51:58"
+    },
+    {
+      "path": "13-5-2026\\13-05-2026-SBJ\\09.05.2026.docx",
+      "size": 64557,
+      "modified": "2026-05-13T10:57:54"
+    },
+    {
+      "path": "13-5-2026\\13-05-2026-SBJ\\10-05-2026.docx",
+      "size": 19720,
+      "modified": "2026-05-13T10:57:54"
+    },
+    {
+      "path": "13-5-2026\\13-05-2026-SBJ\\691301656_122187734762779913_8718259648880858888_n.jpg",
+      "size": 232192,
+      "modified": "2026-05-13T10:57:52"
+    },
+    {
+      "path": "13-5-2026\\13-05-2026-SBJ\\assessment and spl report LG programme.docx",
+      "size": 17357,
+      "modified": "2026-05-13T10:58:12"
+    },
+    {
+      "path": "13-5-2026\\13-05-2026-SBJ\\assessment report LG visit at Ghagwal and Regal (1).docx",
+      "size": 19597,
+      "modified": "2026-05-13T10:58:08"
+    },
+    {
+      "path": "13-5-2026\\13-05-2026-SBJ\\assessment report LG visit at Ghagwal and Regal.docx",
+      "size": 18611,
+      "modified": "2026-05-13T10:58:12"
+    },
+    {
+      "path": "13-5-2026\\13-05-2026-SBJ\\Daily POL and Law and Order Format 02-05-2026.docx",
+      "size": 21936,
+      "modified": "2026-05-13T10:57:40"
+    },
+    {
+      "path": "13-5-2026\\13-05-2026-SBJ\\Daily POL and Law and Order Format 04-05-2026.docx",
+      "size": 26106,
+      "modified": "2026-05-13T10:57:40"
+    },
+    {
+      "path": "13-5-2026\\13-05-2026-SBJ\\Daily POL and Law and Order Format 05-05-2026.docx",
+      "size": 33789,
+      "modified": "2026-05-13T10:57:38"
+    },
+    {
+      "path": "13-5-2026\\13-05-2026-SBJ\\Daily POL and Law and Order Format 06-05-2026.docx",
+      "size": 28517,
+      "modified": "2026-05-13T10:57:38"
+    },
+    {
+      "path": "13-5-2026\\13-05-2026-SBJ\\Daily POL and Law and Order Format 07-05-2026.docx",
+      "size": 29411,
+      "modified": "2026-05-13T10:57:36"
+    },
+    {
+      "path": "13-5-2026\\13-05-2026-SBJ\\Daily POL and Law and Order Format 08-05-2026.docx",
+      "size": 20427,
+      "modified": "2026-05-13T10:57:34"
+    },
+    {
+      "path": "13-5-2026\\13-05-2026-SBJ\\Daily POL and Law and Order Format 09-05-2026.docx",
+      "size": 23671,
+      "modified": "2026-05-13T10:57:34"
+    },
+    {
+      "path": "13-5-2026\\13-05-2026-SBJ\\Daily POL and Law and Order Format 11-05-2026.docx",
+      "size": 29385,
+      "modified": "2026-05-13T10:57:30"
+    },
+    {
+      "path": "13-5-2026\\13-05-2026-SBJ\\Daily POL and Law and Order Format 12-05-2026.docx",
+      "size": 29997,
+      "modified": "2026-05-13T10:57:30"
+    },
+    {
+      "path": "13-5-2026\\13-05-2026-SBJ\\Daily POL and Law and Order Format.docx",
+      "size": 21294,
+      "modified": "2026-05-13T10:57:42"
+    },
+    {
+      "path": "13-5-2026\\13-05-2026-SBJ\\Daily political events and law and order 01-05-2026.docx",
+      "size": 29735,
+      "modified": "2026-05-13T10:57:28"
+    },
+    {
+      "path": "13-5-2026\\13-05-2026-SBJ\\Dilawar Singh Manhas.docx",
+      "size": 36255,
+      "modified": "2026-05-13T10:58:02"
+    },
+    {
+      "path": "13-5-2026\\13-05-2026-SBJ\\DOC-20260505-WA0041..pdf",
+      "size": 153435,
+      "modified": "2026-05-13T10:58:00"
+    },
+    {
+      "path": "13-5-2026\\13-05-2026-SBJ\\gaurav.docx",
+      "size": 17761,
+      "modified": "2026-05-13T10:58:02"
+    },
+    {
+      "path": "13-5-2026\\13-05-2026-SBJ\\Jai Sidh Bhalla.docx",
+      "size": 318989,
+      "modified": "2026-05-13T10:58:04"
+    },
+    {
+      "path": "13-5-2026\\13-05-2026-SBJ\\Nouns and pronouns .pdf",
+      "size": 67868,
+      "modified": "2026-05-13T10:57:58"
+    },
+    {
+      "path": "13-5-2026\\13-05-2026-SBJ\\SR Public Darbar by Honble MLA Doda.docx",
+      "size": 23844,
+      "modified": "2026-05-13T10:57:56"
+    },
+    {
+      "path": "13-5-2026\\13-05-2026-SBJ\\SR Regarding Shortage of Staff-1.docx",
+      "size": 17160,
+      "modified": "2026-05-13T10:57:58"
+    },
+    {
+      "path": "13-5-2026\\13-05-2026-SBJ\\SR. Programmes of Sh. Surjit Singh Slathia.docx",
+      "size": 23854,
+      "modified": "2026-05-13T10:57:44"
+    },
+    {
+      "path": "13-5-2026\\13-05-2026-SBJ\\SR. Visit of Honble LG.docx",
+      "size": 27101,
+      "modified": "2026-05-13T10:58:06"
+    },
+    {
+      "path": "13-5-2026\\13-05-2026-SBJ\\Untitled (1).docx",
+      "size": 29425,
+      "modified": "2026-05-13T10:57:48"
+    },
+    {
+      "path": "13-5-2026\\13-05-2026-SBJ\\Untitled.docx",
+      "size": 27296,
+      "modified": "2026-05-13T10:57:50"
+    },
+    {
+      "path": "13-5-2026\\13-05-2026-SBJ\\Visit of Honble LG J&K UT (1).docx",
+      "size": 283635,
+      "modified": "2026-05-13T10:58:10"
+    },
+    {
+      "path": "13-5-2026\\13-05-2026-SBJ\\Visit of Honble LG J&K UT.docx",
+      "size": 283635,
+      "modified": "2026-05-13T10:58:16"
+    },
+    {
+      "path": "13-5-2026\\13-05-2026-SBJ\\WhatsApp Image 2026-05-05 at 2.45.09 PM.jpeg",
+      "size": 107105,
+      "modified": "2026-05-13T10:58:14"
+    },
+    {
+      "path": "13-5-2026\\13-05-2026-SBJ\\WhatsApp Image 2026-05-11 at 12.37.10 PM (1).jpeg",
+      "size": 138134,
+      "modified": "2026-05-13T10:57:46"
+    },
+    {
+      "path": "13-5-2026\\13-05-2026-SBJ\\WhatsApp Image 2026-05-11 at 12.37.10 PM (2).jpeg",
+      "size": 195407,
+      "modified": "2026-05-13T10:57:48"
+    },
+    {
+      "path": "13-5-2026\\13-05-2026-SBJ\\WhatsApp Image 2026-05-11 at 12.37.10 PM.jpeg",
+      "size": 69842,
+      "modified": "2026-05-13T10:57:44"
+    },
+    {
+      "path": "13-5-2026\\13-05-2026-SBJ\\13-05-2026-SBJ\\09.05.2026.docx",
+      "size": 64557,
+      "modified": "2026-05-13T10:57:54"
+    },
+    {
+      "path": "13-5-2026\\13-05-2026-SBJ\\13-05-2026-SBJ\\10-05-2026.docx",
+      "size": 19720,
+      "modified": "2026-05-13T10:57:54"
+    },
+    {
+      "path": "13-5-2026\\13-05-2026-SBJ\\13-05-2026-SBJ\\691301656_122187734762779913_8718259648880858888_n.jpg",
+      "size": 232192,
+      "modified": "2026-05-13T10:57:52"
+    },
+    {
+      "path": "13-5-2026\\13-05-2026-SBJ\\13-05-2026-SBJ\\assessment and spl report LG programme.docx",
+      "size": 17357,
+      "modified": "2026-05-13T10:58:12"
+    },
+    {
+      "path": "13-5-2026\\13-05-2026-SBJ\\13-05-2026-SBJ\\assessment report LG visit at Ghagwal and Regal (1).docx",
+      "size": 19597,
+      "modified": "2026-05-13T10:58:08"
+    },
+    {
+      "path": "13-5-2026\\13-05-2026-SBJ\\13-05-2026-SBJ\\assessment report LG visit at Ghagwal and Regal.docx",
+      "size": 18611,
+      "modified": "2026-05-13T10:58:12"
+    },
+    {
+      "path": "13-5-2026\\13-05-2026-SBJ\\13-05-2026-SBJ\\Daily POL and Law and Order Format 02-05-2026.docx",
+      "size": 21936,
+      "modified": "2026-05-13T10:57:40"
+    },
+    {
+      "path": "13-5-2026\\13-05-2026-SBJ\\13-05-2026-SBJ\\Daily POL and Law and Order Format 04-05-2026.docx",
+      "size": 26106,
+      "modified": "2026-05-13T10:57:40"
+    },
+    {
+      "path": "13-5-2026\\13-05-2026-SBJ\\13-05-2026-SBJ\\Daily POL and Law and Order Format 05-05-2026.docx",
+      "size": 33789,
+      "modified": "2026-05-13T10:57:38"
+    },
+    {
+      "path": "13-5-2026\\13-05-2026-SBJ\\13-05-2026-SBJ\\Daily POL and Law and Order Format 06-05-2026.docx",
+      "size": 28517,
+      "modified": "2026-05-13T10:57:38"
+    },
+    {
+      "path": "13-5-2026\\13-05-2026-SBJ\\13-05-2026-SBJ\\Daily POL and Law and Order Format 07-05-2026.docx",
+      "size": 29411,
+      "modified": "2026-05-13T10:57:36"
+    },
+    {
+      "path": "13-5-2026\\13-05-2026-SBJ\\13-05-2026-SBJ\\Daily POL and Law and Order Format 08-05-2026.docx",
+      "size": 20427,
+      "modified": "2026-05-13T10:57:34"
+    },
+    {
+      "path": "13-5-2026\\13-05-2026-SBJ\\13-05-2026-SBJ\\Daily POL and Law and Order Format 09-05-2026.docx",
+      "size": 23671,
+      "modified": "2026-05-13T10:57:34"
+    },
+    {
+      "path": "13-5-2026\\13-05-2026-SBJ\\13-05-2026-SBJ\\Daily POL and Law and Order Format 11-05-2026.docx",
+      "size": 29385,
+      "modified": "2026-05-13T10:57:30"
+    },
+    {
+      "path": "13-5-2026\\13-05-2026-SBJ\\13-05-2026-SBJ\\Daily POL and Law and Order Format 12-05-2026.docx",
+      "size": 29997,
+      "modified": "2026-05-13T10:57:30"
+    },
+    {
+      "path": "13-5-2026\\13-05-2026-SBJ\\13-05-2026-SBJ\\Daily POL and Law and Order Format.docx",
+      "size": 21294,
+      "modified": "2026-05-13T10:57:42"
+    },
+    {
+      "path": "13-5-2026\\13-05-2026-SBJ\\13-05-2026-SBJ\\Daily political events and law and order 01-05-2026.docx",
+      "size": 29735,
+      "modified": "2026-05-13T10:57:28"
+    },
+    {
+      "path": "13-5-2026\\13-05-2026-SBJ\\13-05-2026-SBJ\\Dilawar Singh Manhas.docx",
+      "size": 36255,
+      "modified": "2026-05-13T10:58:02"
+    },
+    {
+      "path": "13-5-2026\\13-05-2026-SBJ\\13-05-2026-SBJ\\DOC-20260505-WA0041..pdf",
+      "size": 153435,
+      "modified": "2026-05-13T10:58:00"
+    },
+    {
+      "path": "13-5-2026\\13-05-2026-SBJ\\13-05-2026-SBJ\\gaurav.docx",
+      "size": 17761,
+      "modified": "2026-05-13T10:58:02"
+    },
+    {
+      "path": "13-5-2026\\13-05-2026-SBJ\\13-05-2026-SBJ\\Jai Sidh Bhalla.docx",
+      "size": 318989,
+      "modified": "2026-05-13T10:58:04"
+    },
+    {
+      "path": "13-5-2026\\13-05-2026-SBJ\\13-05-2026-SBJ\\Nouns and pronouns .pdf",
+      "size": 67868,
+      "modified": "2026-05-13T10:57:58"
+    },
+    {
+      "path": "13-5-2026\\13-05-2026-SBJ\\13-05-2026-SBJ\\SR Public Darbar by Honble MLA Doda.docx",
+      "size": 23844,
+      "modified": "2026-05-13T10:57:56"
+    },
+    {
+      "path": "13-5-2026\\13-05-2026-SBJ\\13-05-2026-SBJ\\SR Regarding Shortage of Staff-1.docx",
+      "size": 17160,
+      "modified": "2026-05-13T10:57:58"
+    },
+    {
+      "path": "13-5-2026\\13-05-2026-SBJ\\13-05-2026-SBJ\\SR. Programmes of Sh. Surjit Singh Slathia.docx",
+      "size": 23854,
+      "modified": "2026-05-13T10:57:44"
+    },
+    {
+      "path": "13-5-2026\\13-05-2026-SBJ\\13-05-2026-SBJ\\SR. Visit of Honble LG.docx",
+      "size": 27101,
+      "modified": "2026-05-13T10:58:06"
+    },
+    {
+      "path": "13-5-2026\\13-05-2026-SBJ\\13-05-2026-SBJ\\Untitled (1).docx",
+      "size": 29425,
+      "modified": "2026-05-13T10:57:48"
+    },
+    {
+      "path": "13-5-2026\\13-05-2026-SBJ\\13-05-2026-SBJ\\Untitled.docx",
+      "size": 27296,
+      "modified": "2026-05-13T10:57:50"
+    },
+    {
+      "path": "13-5-2026\\13-05-2026-SBJ\\13-05-2026-SBJ\\Visit of Honble LG J&K UT (1).docx",
+      "size": 283635,
+      "modified": "2026-05-13T10:58:10"
+    },
+    {
+      "path": "13-5-2026\\13-05-2026-SBJ\\13-05-2026-SBJ\\Visit of Honble LG J&K UT.docx",
+      "size": 283635,
+      "modified": "2026-05-13T10:58:16"
+    },
+    {
+      "path": "13-5-2026\\13-05-2026-SBJ\\13-05-2026-SBJ\\WhatsApp Image 2026-05-05 at 2.45.09 PM.jpeg",
+      "size": 107105,
+      "modified": "2026-05-13T10:58:14"
+    },
+    {
+      "path": "13-5-2026\\13-05-2026-SBJ\\13-05-2026-SBJ\\WhatsApp Image 2026-05-11 at 12.37.10 PM (1).jpeg",
+      "size": 138134,
+      "modified": "2026-05-13T10:57:46"
+    },
+    {
+      "path": "13-5-2026\\13-05-2026-SBJ\\13-05-2026-SBJ\\WhatsApp Image 2026-05-11 at 12.37.10 PM (2).jpeg",
+      "size": 195407,
+      "modified": "2026-05-13T10:57:48"
+    },
+    {
+      "path": "13-5-2026\\13-05-2026-SBJ\\13-05-2026-SBJ\\WhatsApp Image 2026-05-11 at 12.37.10 PM.jpeg",
+      "size": 69842,
+      "modified": "2026-05-13T10:57:44"
+    },
+    {
+      "path": "build\\commandexec\\Analysis-00.toc",
+      "size": 104374,
+      "modified": "2026-06-13T15:50:14.762576"
+    },
+    {
+      "path": "build\\commandexec\\base_library.zip",
+      "size": 1394480,
+      "modified": "2026-06-13T15:50:13.817289"
+    },
+    {
+      "path": "build\\commandexec\\commandexec.pkg",
+      "size": 12119298,
+      "modified": "2026-06-13T15:50:16.202559"
+    },
+    {
+      "path": "build\\commandexec\\EXE-00.toc",
+      "size": 9516,
+      "modified": "2026-06-13T15:50:16.344507"
+    },
+    {
+      "path": "build\\commandexec\\PKG-00.toc",
+      "size": 7758,
+      "modified": "2026-06-13T15:50:16.202559"
+    },
+    {
+      "path": "build\\commandexec\\PYZ-00.pyz",
+      "size": 4684464,
+      "modified": "2026-06-13T15:50:15.119112"
+    },
+    {
+      "path": "build\\commandexec\\PYZ-00.toc",
+      "size": 76359,
+      "modified": "2026-06-13T15:50:15.119112"
+    },
+    {
+      "path": "build\\commandexec\\warn-commandexec.txt",
+      "size": 10180,
+      "modified": "2026-06-13T15:50:14.700005"
+    },
+    {
+      "path": "build\\commandexec\\xref-commandexec.html",
+      "size": 883329,
+      "modified": "2026-06-13T15:50:14.738553"
+    },
+    {
+      "path": "build\\commandexec\\localpycs\\pyimod01_archive.pyc",
+      "size": 5054,
+      "modified": "2026-06-13T15:50:14.766592"
+    },
+    {
+      "path": "build\\commandexec\\localpycs\\pyimod02_importers.pyc",
+      "size": 32335,
+      "modified": "2026-06-13T15:50:14.770353"
+    },
+    {
+      "path": "build\\commandexec\\localpycs\\pyimod03_ctypes.pyc",
+      "size": 6635,
+      "modified": "2026-06-13T15:50:14.770353"
+    },
+    {
+      "path": "build\\commandexec\\localpycs\\pyimod04_pywin32.pyc",
+      "size": 1705,
+      "modified": "2026-06-13T15:50:14.770353"
+    },
+    {
+      "path": "build\\commandexec\\localpycs\\struct.pyc",
+      "size": 307,
+      "modified": "2026-06-13T15:50:14.764582"
+    },
+    {
+      "path": "build\\copy_folder\\Analysis-00.toc",
+      "size": 41256,
+      "modified": "2026-06-13T14:37:53.557902"
+    },
+    {
+      "path": "build\\copy_folder\\base_library.zip",
+      "size": 1394480,
+      "modified": "2026-06-13T14:37:53.186741"
+    },
+    {
+      "path": "build\\copy_folder\\copy_folder.pkg",
+      "size": 8677968,
+      "modified": "2026-06-13T14:37:54.698236"
+    },
+    {
+      "path": "build\\copy_folder\\EXE-00.toc",
+      "size": 5239,
+      "modified": "2026-06-13T14:37:54.883155"
+    },
+    {
+      "path": "build\\copy_folder\\PKG-00.toc",
+      "size": 3481,
+      "modified": "2026-06-13T14:37:54.700226"
+    },
+    {
+      "path": "build\\copy_folder\\PYZ-00.pyz",
+      "size": 1739124,
+      "modified": "2026-06-13T14:37:53.700456"
+    },
+    {
+      "path": "build\\copy_folder\\PYZ-00.toc",
+      "size": 17518,
+      "modified": "2026-06-13T14:37:53.705638"
+    },
+    {
+      "path": "build\\copy_folder\\warn-copy_folder.txt",
+      "size": 2059,
+      "modified": "2026-06-13T14:37:53.523019"
+    },
+    {
+      "path": "build\\copy_folder\\xref-copy_folder.html",
+      "size": 287476,
+      "modified": "2026-06-13T14:37:53.547878"
+    },
+    {
+      "path": "build\\copy_folder\\localpycs\\pyimod01_archive.pyc",
+      "size": 5054,
+      "modified": "2026-06-13T14:37:53.563879"
+    },
+    {
+      "path": "build\\copy_folder\\localpycs\\pyimod02_importers.pyc",
+      "size": 32335,
+      "modified": "2026-06-13T14:37:53.572883"
+    },
+    {
+      "path": "build\\copy_folder\\localpycs\\pyimod03_ctypes.pyc",
+      "size": 6635,
+      "modified": "2026-06-13T14:37:53.575879"
+    },
+    {
+      "path": "build\\copy_folder\\localpycs\\pyimod04_pywin32.pyc",
+      "size": 1705,
+      "modified": "2026-06-13T14:37:53.577879"
+    },
+    {
+      "path": "build\\copy_folder\\localpycs\\struct.pyc",
+      "size": 307,
+      "modified": "2026-06-13T14:37:53.559879"
+    },
+    {
+      "path": "build\\DesktopSync\\Analysis-00.toc",
+      "size": 104377,
+      "modified": "2026-06-15T09:23:33.855394"
+    },
+    {
+      "path": "build\\DesktopSync\\base_library.zip",
+      "size": 1394480,
+      "modified": "2026-06-15T09:23:32.682447"
+    },
+    {
+      "path": "build\\DesktopSync\\DesktopSync.pkg",
+      "size": 12124467,
+      "modified": "2026-06-15T09:23:35.295439"
+    },
+    {
+      "path": "build\\DesktopSync\\EXE-00.toc",
+      "size": 9518,
+      "modified": "2026-06-15T09:23:35.437928"
+    },
+    {
+      "path": "build\\DesktopSync\\PKG-00.toc",
+      "size": 7760,
+      "modified": "2026-06-15T09:23:35.295439"
+    },
+    {
+      "path": "build\\DesktopSync\\PYZ-00.pyz",
+      "size": 4684464,
+      "modified": "2026-06-15T09:23:34.202572"
+    },
+    {
+      "path": "build\\DesktopSync\\PYZ-00.toc",
+      "size": 76359,
+      "modified": "2026-06-15T09:23:34.218497"
+    },
+    {
+      "path": "build\\DesktopSync\\warn-DesktopSync.txt",
+      "size": 10180,
+      "modified": "2026-06-15T09:23:33.791783"
+    },
+    {
+      "path": "build\\DesktopSync\\xref-DesktopSync.html",
+      "size": 884358,
+      "modified": "2026-06-15T09:23:33.839292"
+    },
+    {
+      "path": "build\\DesktopSync\\localpycs\\pyimod01_archive.pyc",
+      "size": 5054,
+      "modified": "2026-06-15T09:23:33.872825"
+    },
+    {
+      "path": "build\\DesktopSync\\localpycs\\pyimod02_importers.pyc",
+      "size": 32335,
+      "modified": "2026-06-15T09:23:33.872825"
+    },
+    {
+      "path": "build\\DesktopSync\\localpycs\\pyimod03_ctypes.pyc",
+      "size": 6635,
+      "modified": "2026-06-15T09:23:33.872825"
+    },
+    {
+      "path": "build\\DesktopSync\\localpycs\\pyimod04_pywin32.pyc",
+      "size": 1705,
+      "modified": "2026-06-15T09:23:33.872825"
+    },
+    {
+      "path": "build\\DesktopSync\\localpycs\\struct.pyc",
+      "size": 307,
+      "modified": "2026-06-15T09:23:33.855394"
+    },
+    {
+      "path": "build\\hello\\Analysis-00.toc",
+      "size": 41232,
+      "modified": "2026-06-13T14:30:21.556896"
+    },
+    {
+      "path": "build\\hello\\base_library.zip",
+      "size": 1394480,
+      "modified": "2026-06-13T14:30:21.249458"
+    },
+    {
+      "path": "build\\hello\\EXE-00.toc",
+      "size": 5159,
+      "modified": "2026-06-13T14:30:22.643696"
+    },
+    {
+      "path": "build\\hello\\hello.pkg",
+      "size": 8676073,
+      "modified": "2026-06-13T14:30:22.518033"
+    },
+    {
+      "path": "build\\hello\\PKG-00.toc",
+      "size": 3407,
+      "modified": "2026-06-13T14:30:22.521045"
+    },
+    {
+      "path": "build\\hello\\PYZ-00.pyz",
+      "size": 1739124,
+      "modified": "2026-06-13T14:30:21.678696"
+    },
+    {
+      "path": "build\\hello\\PYZ-00.toc",
+      "size": 17512,
+      "modified": "2026-06-13T14:30:21.682602"
+    },
+    {
+      "path": "build\\hello\\warn-hello.txt",
+      "size": 2059,
+      "modified": "2026-06-13T14:30:21.536515"
+    },
+    {
+      "path": "build\\hello\\xref-hello.html",
+      "size": 285372,
+      "modified": "2026-06-13T14:30:21.550571"
+    },
+    {
+      "path": "build\\hello\\localpycs\\pyimod01_archive.pyc",
+      "size": 5054,
+      "modified": "2026-06-13T14:30:21.561971"
+    },
+    {
+      "path": "build\\hello\\localpycs\\pyimod02_importers.pyc",
+      "size": 32335,
+      "modified": "2026-06-13T14:30:21.568913"
+    },
+    {
+      "path": "build\\hello\\localpycs\\pyimod03_ctypes.pyc",
+      "size": 6635,
+      "modified": "2026-06-13T14:30:21.570876"
+    },
+    {
+      "path": "build\\hello\\localpycs\\pyimod04_pywin32.pyc",
+      "size": 1705,
+      "modified": "2026-06-13T14:30:21.572878"
+    },
+    {
+      "path": "build\\hello\\localpycs\\struct.pyc",
+      "size": 307,
+      "modified": "2026-06-13T14:30:21.560506"
+    },
+    {
+      "path": "build\\upload_to_github\\Analysis-00.toc",
+      "size": 40390,
+      "modified": "2026-06-13T15:17:36.349912"
+    },
+    {
+      "path": "build\\upload_to_github\\base_library.zip",
+      "size": 1394480,
+      "modified": "2026-06-13T15:17:36.143138"
+    },
+    {
+      "path": "build\\upload_to_github\\EXE-00.toc",
+      "size": 5060,
+      "modified": "2026-06-13T15:17:37.165395"
+    },
+    {
+      "path": "build\\upload_to_github\\PKG-00.toc",
+      "size": 3297,
+      "modified": "2026-06-13T15:17:37.046358"
+    },
+    {
+      "path": "build\\upload_to_github\\PYZ-00.pyz",
+      "size": 1702877,
+      "modified": "2026-06-13T15:17:36.441216"
+    },
+    {
+      "path": "build\\upload_to_github\\PYZ-00.toc",
+      "size": 16876,
+      "modified": "2026-06-13T15:17:36.444178"
+    },
+    {
+      "path": "build\\upload_to_github\\upload_to_github.pkg",
+      "size": 8551029,
+      "modified": "2026-06-13T15:17:37.042397"
+    },
+    {
+      "path": "build\\upload_to_github\\warn-upload_to_github.txt",
+      "size": 2159,
+      "modified": "2026-06-13T15:17:36.334747"
+    },
+    {
+      "path": "build\\upload_to_github\\xref-upload_to_github.html",
+      "size": 284055,
+      "modified": "2026-06-13T15:17:36.344912"
+    },
+    {
+      "path": "build\\upload_to_github\\localpycs\\pyimod01_archive.pyc",
+      "size": 5054,
+      "modified": "2026-06-13T15:17:36.353153"
+    },
+    {
+      "path": "build\\upload_to_github\\localpycs\\pyimod02_importers.pyc",
+      "size": 32335,
+      "modified": "2026-06-13T15:17:36.358062"
+    },
+    {
+      "path": "build\\upload_to_github\\localpycs\\pyimod03_ctypes.pyc",
+      "size": 6635,
+      "modified": "2026-06-13T15:17:36.360058"
+    },
+    {
+      "path": "build\\upload_to_github\\localpycs\\pyimod04_pywin32.pyc",
+      "size": 1705,
+      "modified": "2026-06-13T15:17:36.360058"
+    },
+    {
+      "path": "build\\upload_to_github\\localpycs\\struct.pyc",
+      "size": 307,
+      "modified": "2026-06-13T15:17:36.350545"
+    },
+    {
+      "path": "dist\\commandexec.exe",
+      "size": 12461826,
+      "modified": "2026-06-13T15:50:16.328326"
+    },
+    {
+      "path": "dist\\copy_folder.exe",
+      "size": 9020496,
+      "modified": "2026-06-13T14:37:54.879131"
+    },
+    {
+      "path": "dist\\DesktopSync.exe",
+      "size": 12466995,
+      "modified": "2026-06-15T09:23:35.437928"
+    },
+    {
+      "path": "dist\\hello.exe",
+      "size": 9018601,
+      "modified": "2026-06-13T14:30:22.639756"
+    },
+    {
+      "path": "dist\\upload_to_github.exe",
+      "size": 8893557,
+      "modified": "2026-06-13T15:17:37.162424"
+    },
+    {
+      "path": "SecretChatProject_REGENERATED\\README_BUILD.txt",
+      "size": 213,
+      "modified": "2026-04-20T16:01:31.664329"
+    },
+    {
+      "path": "SecretChatProject_REGENERATED\\.idea\\.gitignore",
+      "size": 50,
+      "modified": "2026-04-20T16:03:45.165783"
+    },
+    {
+      "path": "SecretChatProject_REGENERATED\\.idea\\misc.xml",
+      "size": 145,
+      "modified": "2026-04-20T16:57:35.874073"
+    },
+    {
+      "path": "SecretChatProject_REGENERATED\\.idea\\workspace.xml",
+      "size": 1917,
+      "modified": "2026-04-20T16:57:25.979784"
+    },
+    {
+      "path": "SecretChatProject_REGENERATED\\.idea\\caches\\deviceStreaming.xml",
+      "size": 78422,
+      "modified": "2026-04-20T16:57:26.002235"
+    },
+    {
+      "path": "SecretChatProject_REGENERATED\\app\\sample.txt",
+      "size": 28,
+      "modified": "2026-04-20T16:01:31.685825"
+    },
+    {
+      "path": "university_teacher_portal\\university_teacher_portal\\config.php",
+      "size": 1525,
+      "modified": "2026-05-17T17:16:44.102069"
+    },
+    {
+      "path": "university_teacher_portal\\university_teacher_portal\\dashboard.php",
+      "size": 902,
+      "modified": "2026-05-17T17:16:44.153595"
+    },
+    {
+      "path": "university_teacher_portal\\university_teacher_portal\\download.php",
+      "size": 632,
+      "modified": "2026-05-17T17:16:44.196293"
+    },
+    {
+      "path": "university_teacher_portal\\university_teacher_portal\\footer.php",
+      "size": 88,
+      "modified": "2026-05-17T17:16:44.126401"
+    },
+    {
+      "path": "university_teacher_portal\\university_teacher_portal\\header.php",
+      "size": 420,
+      "modified": "2026-05-17T17:16:44.114753"
+    },
+    {
+      "path": "university_teacher_portal\\university_teacher_portal\\index.php",
+      "size": 1243,
+      "modified": "2026-05-17T17:16:44.081456"
+    },
+    {
+      "path": "university_teacher_portal\\university_teacher_portal\\logout.php",
+      "size": 73,
+      "modified": "2026-05-17T17:16:44.140148"
+    },
+    {
+      "path": "university_teacher_portal\\university_teacher_portal\\README_DEPLOYMENT.txt",
+      "size": 1578,
+      "modified": "2026-05-17T17:16:44.234325"
+    },
+    {
+      "path": "university_teacher_portal\\university_teacher_portal\\student.php",
+      "size": 2364,
+      "modified": "2026-05-17T17:16:44.182551"
+    },
+    {
+      "path": "university_teacher_portal\\university_teacher_portal\\submission_download.php",
+      "size": 493,
+      "modified": "2026-05-17T17:16:44.214777"
+    },
+    {
+      "path": "university_teacher_portal\\university_teacher_portal\\teacher.php",
+      "size": 4417,
+      "modified": "2026-05-17T17:16:44.168882"
+    },
+    {
+      "path": "university_teacher_portal\\university_teacher_portal\\assets\\style.css",
+      "size": 1433,
+      "modified": "2026-05-17T17:16:44.271089"
+    },
+    {
+      "path": "university_teacher_portal\\university_teacher_portal\\sql\\database.sql",
+      "size": 1726,
+      "modified": "2026-05-17T17:16:44.319440"
+    }
+  ]
+}
