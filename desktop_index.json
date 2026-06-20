@@ -1,7 +1,7 @@
 {
   "computer": "DESKTOP-Q1B7661",
   "user": "Bravo",
-  "timestamp": "2026-06-15T09:34:21.449217",
+  "timestamp": "2026-06-20T15:18:35.440316",
   "files": [
     {
       "path": "Apk Extractor.lnk",
@@ -89,14 +89,14 @@
       "modified": "2026-04-20T14:17:57.618016"
     },
     {
+      "path": "New Microsoft Word Document.docx",
+      "size": 0,
+      "modified": "2026-06-17T14:01:42.409587"
+    },
+    {
       "path": "Opera browser.lnk",
       "size": 1380,
       "modified": "2026-04-20T14:13:21.846864"
-    },
-    {
-      "path": "SecretChatProject_REGENERATED - Shortcut.lnk",
-      "size": 1165,
-      "modified": "2026-04-20T16:01:28.925876"
     },
     {
       "path": "university_teacher_portal.zip",
