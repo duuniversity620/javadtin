@@ -1,1 +1,0 @@
-dir "Program Files (x86)"
