@@ -1,26 +1,4 @@
-Volume in drive C has no label.
- Volume Serial Number is 9C2C-7603
+[STDERR]
+Access is denied.
 
- Directory of c:\Program Files (x86)
-
-05/08/2026  01:22 PM    <DIR>          .
-04/20/2026  02:11 PM    <DIR>          360
-04/08/2026  10:27 AM    <DIR>          Adobe
-04/20/2026  12:46 PM    <DIR>          BlueStacks X
-04/21/2026  04:50 PM    <DIR>          Common Files
-04/13/2026  02:50 PM    <DIR>          Dell
-04/13/2026  02:50 PM    <DIR>          Google
-04/13/2026  02:53 PM    <DIR>          InstallShield Installation Information
-04/20/2026  03:47 PM    <DIR>          Internet Explorer
-04/14/2026  10:10 AM    <DIR>          Microsoft
-04/08/2026  10:26 AM    <DIR>          Microsoft.NET
-05/08/2026  01:22 PM    <DIR>          MobileBrServ
-04/27/2026  03:11 PM    <DIR>          Mozilla Maintenance Service
-04/09/2026  10:33 AM    <DIR>          Windows Defender
-04/20/2026  03:47 PM    <DIR>          Windows Mail
-04/20/2026  03:47 PM    <DIR>          Windows Media Player
-04/01/2024  09:12 PM    <DIR>          Windows NT
-04/09/2026  10:33 AM    <DIR>          Windows Photo Viewer
-04/01/2024  12:34 PM    <DIR>          WindowsPowerShell
-               0 File(s)              0 bytes
-              19 Dir(s)  128,214,773,760 bytes free
+[EXIT CODE] 1
