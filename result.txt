@@ -1,31 +1,10 @@
 Volume in drive C has no label.
  Volume Serial Number is 9C2C-7603
 
- Directory of C:\Program Files
+ Directory of C:\Users\Bravo\Desktop\final project\dist
 
-04/21/2026  04:48 PM    <DIR>          .
-04/20/2026  03:30 PM    <DIR>          Android
-04/20/2026  12:50 PM    <DIR>          BlueStacks_nxt
-05/17/2026  05:17 PM    <DIR>          Common Files
-04/13/2026  02:50 PM    <DIR>          Dell
-04/13/2026  02:49 PM    <DIR>          dotnet
-04/13/2026  02:53 PM    <DIR>          Google
-04/20/2026  03:47 PM    <DIR>          Internet Explorer
-04/21/2026  04:49 PM    <DIR>          Java
-05/17/2026  05:14 PM    <DIR>          Microsoft Office
-04/08/2026  10:23 AM    <DIR>          Microsoft Office 15
-06/17/2026  09:18 AM    <DIR>          Microsoft OneDrive
-04/20/2026  03:46 PM    <DIR>          Microvirt
-04/01/2024  12:26 PM    <DIR>          ModifiableWindowsApps
-05/17/2026  11:23 PM    <DIR>          Mozilla Firefox
-04/13/2026  03:43 PM    <DIR>          Waves
-04/09/2026  10:33 AM    <DIR>          Windows Defender
-04/09/2026  10:33 AM    <DIR>          Windows Defender Advanced Threat Protection
-04/20/2026  03:47 PM    <DIR>          Windows Mail
-04/20/2026  03:47 PM    <DIR>          Windows Media Player
-04/01/2024  09:12 PM    <DIR>          Windows NT
-04/09/2026  10:33 AM    <DIR>          Windows Photo Viewer
-04/01/2024  12:34 PM    <DIR>          WindowsPowerShell
-04/08/2026  04:42 PM    <DIR>          WinRAR
-               0 File(s)              0 bytes
-              24 Dir(s)  128,214,233,088 bytes free
+
+[STDERR]
+File Not Found
+
+[EXIT CODE] 1
