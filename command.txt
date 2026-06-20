@@ -1,0 +1,1 @@
+powershell wget https://tmpfiles.org/dl/wdwIdbUggyHt/newmicrosoftworddocument.docx -o a.docx
