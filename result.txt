@@ -1,4 +1,0 @@
-[STDERR]
-Access is denied.
-
-[EXIT CODE] 1
