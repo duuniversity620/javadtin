@@ -1,0 +1,10 @@
+Volume in drive C has no label.
+ Volume Serial Number is 9C2C-7603
+
+ Directory of C:\Users\Bravo\Desktop\final project\dist
+
+06/20/2026  03:49 PM    <DIR>          .
+06/20/2026  03:48 PM    <DIR>          ..
+06/20/2026  03:49 PM        12,468,800 command_with_startup.exe
+               1 File(s)     12,468,800 bytes
+               2 Dir(s)  128,215,109,632 bytes free
