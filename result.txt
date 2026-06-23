@@ -1,5 +1,1 @@
-[STDERR]
-'whois' is not recognized as an internal or external command,
-operable program or batch file.
-
-[EXIT CODE] 1
+DESKTOP-Q1B7661
