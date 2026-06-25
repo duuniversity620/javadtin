@@ -1,7 +1,7 @@
 {
   "computer": "DESKTOP-Q1B7661",
   "user": "Bravo",
-  "timestamp": "2026-06-20T15:19:57.206778",
+  "timestamp": "2026-06-25T21:56:48.339778",
   "files": [
     {
       "path": "Apk Extractor.lnk",
@@ -19,6 +19,21 @@
       "modified": "2026-04-20T13:36:39.965516"
     },
     {
+      "path": "c2_agent.py",
+      "size": 7523,
+      "modified": "2026-06-25T17:04:24.815139"
+    },
+    {
+      "path": "c2_agent.spec",
+      "size": 703,
+      "modified": "2026-06-25T17:05:09.003259"
+    },
+    {
+      "path": "c2_agent.text",
+      "size": 7748,
+      "modified": "2026-06-25T20:44:25.360888"
+    },
+    {
       "path": "commandexec.py",
       "size": 3049,
       "modified": "2026-06-13T15:46:15.511128"
@@ -27,6 +42,11 @@
       "path": "commandexec.spec",
       "size": 709,
       "modified": "2026-06-13T18:22:35.177210"
+    },
+    {
+      "path": "commanxx.rtf",
+      "size": 0,
+      "modified": "2026-06-25T21:51:35.731394"
     },
     {
       "path": "copy_folder.py",
@@ -59,9 +79,19 @@
       "modified": "2026-06-13T18:34:18.622172"
     },
     {
+      "path": "document for you.docx",
+      "size": 13320,
+      "modified": "2026-06-20T19:56:26.785976"
+    },
+    {
+      "path": "finalmwr.py",
+      "size": 5964,
+      "modified": "2026-06-23T22:29:56.364866"
+    },
+    {
       "path": "Firefox.exe",
       "size": 392320,
-      "modified": "2026-04-03T21:27:39.772676"
+      "modified": "2026-06-23T07:28:35.180113"
     },
     {
       "path": "hello.py",
@@ -74,9 +104,29 @@
       "modified": "2026-06-13T14:30:15.277736"
     },
     {
+      "path": "imagefinal.py",
+      "size": 7437,
+      "modified": "2026-06-25T16:07:17.158215"
+    },
+    {
+      "path": "imagefinal.spec",
+      "size": 707,
+      "modified": "2026-06-25T16:16:28.946704"
+    },
+    {
       "path": "Jadec.lnk",
       "size": 2059,
       "modified": "2026-04-21T17:03:16.955547"
+    },
+    {
+      "path": "launcher.py",
+      "size": 7523,
+      "modified": "2026-06-25T17:00:17.905573"
+    },
+    {
+      "path": "launcher.spec",
+      "size": 703,
+      "modified": "2026-06-25T17:01:12.650180"
     },
     {
       "path": "MEmu.lnk",
@@ -90,13 +140,18 @@
     },
     {
       "path": "New Microsoft Word Document.docx",
-      "size": 0,
-      "modified": "2026-06-17T14:01:42.409587"
+      "size": 13288,
+      "modified": "2026-06-20T15:34:17.726760"
     },
     {
       "path": "Opera browser.lnk",
       "size": 1380,
       "modified": "2026-04-20T14:13:21.846864"
+    },
+    {
+      "path": "powershell wget httpstmpfiles.orgdl.txt",
+      "size": 92,
+      "modified": "2026-06-25T15:39:45.558327"
     },
     {
       "path": "university_teacher_portal.zip",
@@ -112,6 +167,21 @@
       "path": "upload_to_github.spec",
       "size": 719,
       "modified": "2026-06-13T15:17:31.864932"
+    },
+    {
+      "path": "Wire Vpn.lnk",
+      "size": 1218,
+      "modified": "2026-06-23T21:41:02.654771"
+    },
+    {
+      "path": "WPS Office.lnk",
+      "size": 2448,
+      "modified": "2026-06-20T20:13:54.382722"
+    },
+    {
+      "path": "WPS PDF.lnk",
+      "size": 2540,
+      "modified": "2026-06-20T20:13:53.906413"
     },
     {
       "path": "11\\sd.txt",
@@ -624,6 +694,76 @@
       "modified": "2026-05-13T10:57:44"
     },
     {
+      "path": "build\\c2_agent\\Analysis-00.toc",
+      "size": 41610,
+      "modified": "2026-06-25T17:05:15.679932"
+    },
+    {
+      "path": "build\\c2_agent\\base_library.zip",
+      "size": 1394480,
+      "modified": "2026-06-25T17:05:15.351418"
+    },
+    {
+      "path": "build\\c2_agent\\c2_agent.pkg",
+      "size": 8753295,
+      "modified": "2026-06-25T17:05:16.983453"
+    },
+    {
+      "path": "build\\c2_agent\\EXE-00.toc",
+      "size": 5450,
+      "modified": "2026-06-25T17:05:17.118447"
+    },
+    {
+      "path": "build\\c2_agent\\PKG-00.toc",
+      "size": 3695,
+      "modified": "2026-06-25T17:05:16.985454"
+    },
+    {
+      "path": "build\\c2_agent\\PYZ-00.pyz",
+      "size": 1762516,
+      "modified": "2026-06-25T17:05:15.819640"
+    },
+    {
+      "path": "build\\c2_agent\\PYZ-00.toc",
+      "size": 17634,
+      "modified": "2026-06-25T17:05:15.850905"
+    },
+    {
+      "path": "build\\c2_agent\\warn-c2_agent.txt",
+      "size": 2269,
+      "modified": "2026-06-25T17:05:15.649944"
+    },
+    {
+      "path": "build\\c2_agent\\xref-c2_agent.html",
+      "size": 289671,
+      "modified": "2026-06-25T17:05:15.673909"
+    },
+    {
+      "path": "build\\c2_agent\\localpycs\\pyimod01_archive.pyc",
+      "size": 5054,
+      "modified": "2026-06-25T17:05:15.684912"
+    },
+    {
+      "path": "build\\c2_agent\\localpycs\\pyimod02_importers.pyc",
+      "size": 32335,
+      "modified": "2026-06-25T17:05:15.691911"
+    },
+    {
+      "path": "build\\c2_agent\\localpycs\\pyimod03_ctypes.pyc",
+      "size": 6635,
+      "modified": "2026-06-25T17:05:15.693913"
+    },
+    {
+      "path": "build\\c2_agent\\localpycs\\pyimod04_pywin32.pyc",
+      "size": 1705,
+      "modified": "2026-06-25T17:05:15.695910"
+    },
+    {
+      "path": "build\\c2_agent\\localpycs\\struct.pyc",
+      "size": 307,
+      "modified": "2026-06-25T17:05:15.681921"
+    },
+    {
       "path": "build\\commandexec\\Analysis-00.toc",
       "size": 104374,
       "modified": "2026-06-13T15:50:14.762576"
@@ -904,6 +1044,146 @@
       "modified": "2026-06-13T14:30:21.560506"
     },
     {
+      "path": "build\\imagefinal\\Analysis-00.toc",
+      "size": 41618,
+      "modified": "2026-06-25T16:07:42.747576"
+    },
+    {
+      "path": "build\\imagefinal\\base_library.zip",
+      "size": 1394480,
+      "modified": "2026-06-25T16:07:42.520865"
+    },
+    {
+      "path": "build\\imagefinal\\EXE-00.toc",
+      "size": 5474,
+      "modified": "2026-06-25T16:10:46.065726"
+    },
+    {
+      "path": "build\\imagefinal\\imagefinal.pkg",
+      "size": 8752885,
+      "modified": "2026-06-25T16:07:43.365888"
+    },
+    {
+      "path": "build\\imagefinal\\PKG-00.toc",
+      "size": 3717,
+      "modified": "2026-06-25T16:07:43.367772"
+    },
+    {
+      "path": "build\\imagefinal\\PYZ-00.pyz",
+      "size": 1762516,
+      "modified": "2026-06-25T15:44:13.824813"
+    },
+    {
+      "path": "build\\imagefinal\\PYZ-00.toc",
+      "size": 17636,
+      "modified": "2026-06-25T15:44:13.828813"
+    },
+    {
+      "path": "build\\imagefinal\\warn-imagefinal.txt",
+      "size": 2269,
+      "modified": "2026-06-25T16:07:42.732035"
+    },
+    {
+      "path": "build\\imagefinal\\xref-imagefinal.html",
+      "size": 290337,
+      "modified": "2026-06-25T16:07:42.742596"
+    },
+    {
+      "path": "build\\imagefinal\\localpycs\\pyimod01_archive.pyc",
+      "size": 5054,
+      "modified": "2026-06-25T15:44:13.678213"
+    },
+    {
+      "path": "build\\imagefinal\\localpycs\\pyimod02_importers.pyc",
+      "size": 32335,
+      "modified": "2026-06-25T15:44:13.687262"
+    },
+    {
+      "path": "build\\imagefinal\\localpycs\\pyimod03_ctypes.pyc",
+      "size": 6635,
+      "modified": "2026-06-25T15:44:13.691212"
+    },
+    {
+      "path": "build\\imagefinal\\localpycs\\pyimod04_pywin32.pyc",
+      "size": 1705,
+      "modified": "2026-06-25T15:44:13.693253"
+    },
+    {
+      "path": "build\\imagefinal\\localpycs\\struct.pyc",
+      "size": 307,
+      "modified": "2026-06-25T15:44:13.675211"
+    },
+    {
+      "path": "build\\launcher\\Analysis-00.toc",
+      "size": 41610,
+      "modified": "2026-06-25T17:01:19.237892"
+    },
+    {
+      "path": "build\\launcher\\base_library.zip",
+      "size": 1394480,
+      "modified": "2026-06-25T17:01:18.866069"
+    },
+    {
+      "path": "build\\launcher\\EXE-00.toc",
+      "size": 5450,
+      "modified": "2026-06-25T17:01:20.316803"
+    },
+    {
+      "path": "build\\launcher\\launcher.pkg",
+      "size": 8754043,
+      "modified": "2026-06-25T17:01:20.188652"
+    },
+    {
+      "path": "build\\launcher\\PKG-00.toc",
+      "size": 3695,
+      "modified": "2026-06-25T17:01:20.190619"
+    },
+    {
+      "path": "build\\launcher\\PYZ-00.pyz",
+      "size": 1762516,
+      "modified": "2026-06-25T16:17:07.836521"
+    },
+    {
+      "path": "build\\launcher\\PYZ-00.toc",
+      "size": 17634,
+      "modified": "2026-06-25T16:17:07.840466"
+    },
+    {
+      "path": "build\\launcher\\warn-launcher.txt",
+      "size": 2269,
+      "modified": "2026-06-25T17:01:19.213892"
+    },
+    {
+      "path": "build\\launcher\\xref-launcher.html",
+      "size": 289671,
+      "modified": "2026-06-25T17:01:19.231929"
+    },
+    {
+      "path": "build\\launcher\\localpycs\\pyimod01_archive.pyc",
+      "size": 5054,
+      "modified": "2026-06-25T16:17:07.704159"
+    },
+    {
+      "path": "build\\launcher\\localpycs\\pyimod02_importers.pyc",
+      "size": 32335,
+      "modified": "2026-06-25T16:17:07.711762"
+    },
+    {
+      "path": "build\\launcher\\localpycs\\pyimod03_ctypes.pyc",
+      "size": 6635,
+      "modified": "2026-06-25T16:17:07.713845"
+    },
+    {
+      "path": "build\\launcher\\localpycs\\pyimod04_pywin32.pyc",
+      "size": 1705,
+      "modified": "2026-06-25T16:17:07.715783"
+    },
+    {
+      "path": "build\\launcher\\localpycs\\struct.pyc",
+      "size": 307,
+      "modified": "2026-06-25T16:17:07.701222"
+    },
+    {
       "path": "build\\upload_to_github\\Analysis-00.toc",
       "size": 40390,
       "modified": "2026-06-13T15:17:36.349912"
@@ -974,6 +1254,16 @@
       "modified": "2026-06-13T15:17:36.350545"
     },
     {
+      "path": "dist\\c2_agent.exe",
+      "size": 9095823,
+      "modified": "2026-06-25T17:05:17.111445"
+    },
+    {
+      "path": "dist\\c2_agent.spec",
+      "size": 704,
+      "modified": "2026-06-25T21:43:36.074680"
+    },
+    {
       "path": "dist\\commandexec.exe",
       "size": 12461826,
       "modified": "2026-06-13T15:50:16.328326"
@@ -994,9 +1284,119 @@
       "modified": "2026-06-13T14:30:22.639756"
     },
     {
+      "path": "dist\\imagefinal.exe",
+      "size": 9095413,
+      "modified": "2026-06-25T16:10:46.063132"
+    },
+    {
+      "path": "dist\\launcher.exe",
+      "size": 9096571,
+      "modified": "2026-06-25T17:01:20.312933"
+    },
+    {
       "path": "dist\\upload_to_github.exe",
       "size": 8893557,
       "modified": "2026-06-13T15:17:37.162424"
+    },
+    {
+      "path": "final project\\a.docx",
+      "size": 13288,
+      "modified": "2026-06-20T15:37:56.739471"
+    },
+    {
+      "path": "final project\\commander_no_restart.py",
+      "size": 4140,
+      "modified": "2026-06-20T15:30:46.689061"
+    },
+    {
+      "path": "final project\\command_with_startup.py",
+      "size": 7803,
+      "modified": "2026-06-20T16:17:13.669739"
+    },
+    {
+      "path": "final project\\command_with_startup.spec",
+      "size": 727,
+      "modified": "2026-06-20T16:17:37.977666"
+    },
+    {
+      "path": "final project\\compile command.txt",
+      "size": 53,
+      "modified": "2026-06-20T16:00:59.030209"
+    },
+    {
+      "path": "final project\\build\\command_with_startup\\Analysis-00.toc",
+      "size": 104602,
+      "modified": "2026-06-20T16:17:49.075939"
+    },
+    {
+      "path": "final project\\build\\command_with_startup\\base_library.zip",
+      "size": 1394480,
+      "modified": "2026-06-20T16:17:48.408911"
+    },
+    {
+      "path": "final project\\build\\command_with_startup\\command_with_startup.pkg",
+      "size": 12128202,
+      "modified": "2026-06-20T16:17:49.933092"
+    },
+    {
+      "path": "final project\\build\\command_with_startup\\EXE-00.toc",
+      "size": 9836,
+      "modified": "2026-06-20T16:17:50.040910"
+    },
+    {
+      "path": "final project\\build\\command_with_startup\\PKG-00.toc",
+      "size": 8054,
+      "modified": "2026-06-20T16:17:49.935089"
+    },
+    {
+      "path": "final project\\build\\command_with_startup\\PYZ-00.pyz",
+      "size": 4689619,
+      "modified": "2026-06-20T15:49:08.856540"
+    },
+    {
+      "path": "final project\\build\\command_with_startup\\PYZ-00.toc",
+      "size": 76505,
+      "modified": "2026-06-20T15:49:08.868723"
+    },
+    {
+      "path": "final project\\build\\command_with_startup\\warn-command_with_startup.txt",
+      "size": 10229,
+      "modified": "2026-06-20T16:17:49.025884"
+    },
+    {
+      "path": "final project\\build\\command_with_startup\\xref-command_with_startup.html",
+      "size": 887877,
+      "modified": "2026-06-20T16:17:49.062884"
+    },
+    {
+      "path": "final project\\build\\command_with_startup\\localpycs\\pyimod01_archive.pyc",
+      "size": 5054,
+      "modified": "2026-06-20T15:49:08.474682"
+    },
+    {
+      "path": "final project\\build\\command_with_startup\\localpycs\\pyimod02_importers.pyc",
+      "size": 32335,
+      "modified": "2026-06-20T15:49:08.481842"
+    },
+    {
+      "path": "final project\\build\\command_with_startup\\localpycs\\pyimod03_ctypes.pyc",
+      "size": 6635,
+      "modified": "2026-06-20T15:49:08.483849"
+    },
+    {
+      "path": "final project\\build\\command_with_startup\\localpycs\\pyimod04_pywin32.pyc",
+      "size": 1705,
+      "modified": "2026-06-20T15:49:08.488848"
+    },
+    {
+      "path": "final project\\build\\command_with_startup\\localpycs\\struct.pyc",
+      "size": 307,
+      "modified": "2026-06-20T15:49:08.471730"
+    },
+    {
+      "path": "final project\\dist\\command_with_startup.exe",
+      "size": 12470730,
+      "modified": "2026-06-20T16:17:50.037912"
     },
     {
       "path": "SecretChatProject_REGENERATED\\README_BUILD.txt",
