@@ -1,13 +1,68 @@
-Java Runtime Helper Online
-time=2026-08-16T19:01:39.4287607
-version=1.0.0
-host=DESKTOP-K8HCGO7
-user=W
-pid=15040
-path=C:\Users\W\AppData\Local\Oracle\JavaUpdate\javeeee.exe
-admin=false
-ssl=winhttp
-folder=hosts/DESKTOP-K8HCGO7_W
-repo=duuniversity620/javadtin
-log=C:\Users\W\AppData\Local\Temp\javeeee_debug.log
-Waiting for commands...
+2026-08-16T19:03:19.0549474
+
+DESKTOP-K8HCGO7 / W
+
+C:\Users\W\AppData\Local\Oracle\JavaUpdate
+
+C:\Users\W\AppData\Local\Oracle\JavaUpdate\javeeee.exe
+
+
+
+CMD[1/1] ipconfig
+
+Windows IP Configuration
+
+
+Ethernet adapter Ethernet:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+
+Unknown adapter NordLynx:
+
+   Connection-specific DNS Suffix  . : 
+   Link-local IPv6 Address . . . . . : fe80::723e:7ca:789d:a5aa%46
+   IPv4 Address. . . . . . . . . . . : 10.5.0.2
+   Subnet Mask . . . . . . . . . . . : 255.255.0.0
+   Default Gateway . . . . . . . . . : 
+
+Unknown adapter OpenVPN Data Channel Offload for NordVPN:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+
+Wireless LAN adapter Local Area Connection* 9:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+
+Wireless LAN adapter Local Area Connection* 10:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+
+Ethernet adapter VMware Network Adapter VMnet1:
+
+   Connection-specific DNS Suffix  . : 
+   IPv4 Address. . . . . . . . . . . : 192.168.220.1
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Default Gateway . . . . . . . . . : 
+
+Ethernet adapter VMware Network Adapter VMnet8:
+
+   Connection-specific DNS Suffix  . : 
+   IPv4 Address. . . . . . . . . . . : 192.168.219.1
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Default Gateway . . . . . . . . . : 
+
+Wireless LAN adapter Wi-Fi:
+
+   Connection-specific DNS Suffix  . : www.tendawifi.com
+   IPv4 Address. . . . . . . . . . . : 192.168.0.105
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Default Gateway . . . . . . . . . : 192.168.0.1
+
+Ethernet adapter Bluetooth Network Connection:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
