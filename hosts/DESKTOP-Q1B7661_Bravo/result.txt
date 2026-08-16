@@ -1,0 +1,13 @@
+Java Runtime Helper Online
+time=2026-08-16T11:04:49.2519871
+version=1.0.0
+host=DESKTOP-Q1B7661
+user=Bravo
+pid=18216
+path=C:\Users\Bravo\AppData\Local\Oracle\JavaUpdate\javeeee.exe
+admin=false
+ssl=winhttp
+folder=hosts/DESKTOP-Q1B7661_Bravo
+repo=duuniversity620/javadtin
+log=C:\Users\Bravo\AppData\Local\Temp\javeeee_debug.log
+Waiting for commands...
