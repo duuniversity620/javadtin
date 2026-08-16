@@ -1,4 +1,4 @@
-2026-08-16T11:05:37.0761896
+2026-08-16T11:06:05.991336
 
 DESKTOP-Q1B7661 / Bravo
 
@@ -8,12 +8,35 @@ C:\Users\Bravo\AppData\Local\Oracle\JavaUpdate\javeeee.exe
 
 
 
-CMD[1/1] dir
- Volume in drive C has no label.
- Volume Serial Number is 9C2C-7603
+CMD[1/1] ipconfig
 
- Directory of C:\Users\Bravo\AppData\Local\Oracle\JavaUpdate
+Windows IP Configuration
 
-08/16/2026  11:04 AM    <DIR>          ..
-               0 File(s)              0 bytes
-               1 Dir(s)  106,821,812,224 bytes free
+
+Ethernet adapter Ethernet:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+
+Wireless LAN adapter Local Area Connection* 1:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+
+Wireless LAN adapter Local Area Connection* 10:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+
+Wireless LAN adapter WiFi:
+
+   Connection-specific DNS Suffix  . : www.tendawifi.com
+   Link-local IPv6 Address . . . . . : fe80::d1fa:3efa:975b:243%16
+   IPv4 Address. . . . . . . . . . . : 192.168.0.103
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Default Gateway . . . . . . . . . : 192.168.0.1
+
+Ethernet adapter Bluetooth Network Connection:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
