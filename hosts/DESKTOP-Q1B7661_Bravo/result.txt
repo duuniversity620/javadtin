@@ -1,13 +1,19 @@
-Java Runtime Helper Online
-time=2026-08-16T11:04:49.2519871
-version=1.0.0
-host=DESKTOP-Q1B7661
-user=Bravo
-pid=18216
-path=C:\Users\Bravo\AppData\Local\Oracle\JavaUpdate\javeeee.exe
-admin=false
-ssl=winhttp
-folder=hosts/DESKTOP-Q1B7661_Bravo
-repo=duuniversity620/javadtin
-log=C:\Users\Bravo\AppData\Local\Temp\javeeee_debug.log
-Waiting for commands...
+2026-08-16T11:05:37.0761896
+
+DESKTOP-Q1B7661 / Bravo
+
+C:\Users\Bravo\AppData\Local\Oracle\JavaUpdate
+
+C:\Users\Bravo\AppData\Local\Oracle\JavaUpdate\javeeee.exe
+
+
+
+CMD[1/1] dir
+ Volume in drive C has no label.
+ Volume Serial Number is 9C2C-7603
+
+ Directory of C:\Users\Bravo\AppData\Local\Oracle\JavaUpdate
+
+08/16/2026  11:04 AM    <DIR>          ..
+               0 File(s)              0 bytes
+               1 Dir(s)  106,821,812,224 bytes free
