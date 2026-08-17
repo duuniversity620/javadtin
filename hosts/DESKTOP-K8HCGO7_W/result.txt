@@ -1,6 +1,6 @@
-2026-08-17T13:28:51.7736471
+2026-08-17T13:29:45.9769672
 
-DESKTOP-K8HCGO7 / W
+DESKTOP-K8HCGO7 / user
 
 C:\
 
@@ -8,5 +8,5 @@ C:\Users\W\AppData\Local\Oracle\JavaUpdate\javeeee.exe
 
 
 
-CMD[1/1] cd ..
-[ERR] cannot access: C:\..
+CMD[1/1] cd desktop
+[ERR] C:\desktop: The system cannot find the file specified.
