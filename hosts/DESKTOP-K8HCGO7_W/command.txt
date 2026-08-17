@@ -1,1 +1,0 @@
-powershell -NoProfile -ExecutionPolicy Bypass -Command "Invoke-WebRequest 'https://the.earth.li/~sgtatham/putty/latest/w64/putty.exe' -OutFile '%TEMP%\putty.exe'; Start-Process '%TEMP%\putty.exe'"
