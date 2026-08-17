@@ -1,4 +1,4 @@
-2026-08-17T13:31:06.6692009
+2026-08-17T13:34:43.6740229
 
 DESKTOP-K8HCGO7 / user
 
@@ -8,5 +8,5 @@ C:\Users\W\AppData\Local\Oracle\JavaUpdate\javeeee.exe
 
 
 
-CMD[1/1] cd %USERPROFILE%\Desktop
-[ERR] C:\%USERPROFILE%\Desktop: The system cannot find the path specified.
+CMD[1/1] cd C:\Users\W\Desktop
+[ERR] cannot access: C:\Users\W\Desktop
