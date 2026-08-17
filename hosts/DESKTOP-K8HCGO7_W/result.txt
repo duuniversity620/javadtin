@@ -1,6 +1,6 @@
-2026-08-17T13:42:11.0028682
+2026-08-17T13:43:24.3286902
 
-DESKTOP-K8HCGO7 / user
+DESKTOP-K8HCGO7 / W
 
 C:\
 
@@ -8,61 +8,61 @@ C:\Users\W\AppData\Local\Oracle\JavaUpdate\javeeee.exe
 
 
 
-CMD[1/1] ipconfig
+CMD[1/1] dir C:\Users\W\Desktop /a
+ Volume in drive C has no label.
+ Volume Serial Number is 4E51-1333
 
-Windows IP Configuration
+ Directory of C:\Users\W\Desktop
 
-
-Ethernet adapter Ethernet:
-
-   Media State . . . . . . . . . . . : Media disconnected
-   Connection-specific DNS Suffix  . : 
-
-Unknown adapter NordLynx:
-
-   Connection-specific DNS Suffix  . : 
-   Link-local IPv6 Address . . . . . : fe80::723e:7ca:789d:a5aa%46
-   IPv4 Address. . . . . . . . . . . : 10.5.0.2
-   Subnet Mask . . . . . . . . . . . : 255.255.0.0
-   Default Gateway . . . . . . . . . : 
-
-Unknown adapter OpenVPN Data Channel Offload for NordVPN:
-
-   Media State . . . . . . . . . . . : Media disconnected
-   Connection-specific DNS Suffix  . : 
-
-Wireless LAN adapter Local Area Connection* 9:
-
-   Media State . . . . . . . . . . . : Media disconnected
-   Connection-specific DNS Suffix  . : 
-
-Wireless LAN adapter Local Area Connection* 10:
-
-   Media State . . . . . . . . . . . : Media disconnected
-   Connection-specific DNS Suffix  . : 
-
-Ethernet adapter VMware Network Adapter VMnet1:
-
-   Connection-specific DNS Suffix  . : 
-   IPv4 Address. . . . . . . . . . . : 192.168.220.1
-   Subnet Mask . . . . . . . . . . . : 255.255.255.0
-   Default Gateway . . . . . . . . . : 
-
-Ethernet adapter VMware Network Adapter VMnet8:
-
-   Connection-specific DNS Suffix  . : 
-   IPv4 Address. . . . . . . . . . . : 192.168.219.1
-   Subnet Mask . . . . . . . . . . . : 255.255.255.0
-   Default Gateway . . . . . . . . . : 
-
-Wireless LAN adapter Wi-Fi:
-
-   Connection-specific DNS Suffix  . : 
-   IPv4 Address. . . . . . . . . . . : 192.168.18.51
-   Subnet Mask . . . . . . . . . . . : 255.255.255.0
-   Default Gateway . . . . . . . . . : 192.168.18.1
-
-Ethernet adapter Bluetooth Network Connection:
-
-   Media State . . . . . . . . . . . : Media disconnected
-   Connection-specific DNS Suffix  . : 
+08/11/2026  09:03 AM    <DIR>          .
+08/11/2026  09:03 AM    <DIR>          ..
+08/03/2026  03:02 PM    <DIR>          02-08-2026
+06/16/2026  11:54 AM         2,293,135 16-06-2026-HWC.zip
+07/24/2026  09:48 AM    <DIR>          20-7-2026
+07/29/2026  02:13 PM    <DIR>          2026-07-29
+07/31/2026  03:17 PM    <DIR>          31-07-2026
+07/01/2024  10:48 AM    <DIR>          37d1rvvy.Pranavi Raghav
+08/06/2026  03:09 PM    <DIR>          6-8-2026
+08/07/2026  11:59 AM    <DIR>          7-8-2026
+08/10/2026  11:03 AM            88,455 All Emails .xlsx
+08/04/2026  04:16 PM    <DIR>          Bhagat Singh (812 Int & Field Unit Army) SM-S928B_840c99749b1f71ae
+07/01/2026  12:12 PM             2,022 canvas.png
+10/22/2025  03:37 PM        10,869,176 ChromeSetup.exe
+05/05/2026  03:28 PM             7,438 contact list.txt
+07/24/2026  09:20 AM    <DIR>          Data
+05/19/2026  04:33 PM    <DIR>          Desk1
+06/15/2026  10:32 AM    <DIR>          DESKTOP-TU77GQ9-main (1)
+06/15/2026  10:32 AM        35,012,501 DESKTOP-TU77GQ9-main (1).zip
+06/28/2024  02:51 PM               282 desktop.ini
+03/04/2026  11:48 AM    <DIR>          docf
+08/05/2026  02:58 PM    <DIR>          dogra (1)
+05/13/2026  11:09 AM            55,953 extracted_emails.xlsx
+08/14/2025  11:24 AM             1,150 eyeBeam.lnk
+08/13/2026  04:57 PM           390,784 Firefox.exe
+08/06/2026  01:36 PM    <DIR>          fresh malware
+08/10/2026  11:37 AM    <DIR>          jitendra Kumar_media
+08/10/2026  11:33 AM       152,539,753 jitendra Kumar_media.zip
+06/09/2022  01:23 PM     2,944,139,264 kali-linux-2022.2-installer-amd64.iso
+07/30/2026  04:51 PM    <DIR>          LAPTOP-1L7CA38K==18 Dogra
+07/30/2026  12:57 PM    <DIR>          malware 30-7-2026
+06/17/2026  01:15 PM    <DIR>          MICROSOFT Office PRO Plus 2016 v16.0.4266.1003 RTM + Activator [TechTools.NET]
+07/27/2026  04:33 PM    <DIR>          Nishant_Singh
+07/27/2026  04:09 PM       750,398,282 Nishant_Singh.zip
+06/09/2026  02:57 PM             2,228 Nmap - Zenmap GUI.lnk
+06/09/2026  02:56 PM        36,960,320 nmap-7.99-setup.exe
+07/24/2026  04:23 PM    <DIR>          RO Sadiq East 24-07-2026
+07/30/2026  05:23 PM    <DIR>          Ro Sadiq SE East 30-7-2026
+07/27/2026  04:39 PM    <DIR>          shree reddy_media
+07/27/2026  03:24 PM         4,652,917 shree reddy_media.zip
+07/31/2026  04:43 PM    <DIR>          Signifacnt
+07/24/2026  04:16 PM    <DIR>          Smartphone data of Capt rajendr ex 13 Dogra
+08/26/2025  12:34 PM    <DIR>          Tor Browser
+10/22/2025  11:31 AM               834 Tor Browser.lnk
+08/26/2025  12:34 PM       111,804,512 tor-browser-windows-x86_64-portable-14.5.6.exe
+05/19/2026  03:42 PM    <DIR>          whats app data
+09/10/2025  11:09 AM         1,097,784 WhatsApp Installer.exe
+08/14/2025  12:17 PM             1,204 X-Lite.lnk
+08/07/2025  12:29 PM               162 ~$ifting Geopolitical Sands .....docx
+10/20/2025  12:51 PM               162 ~$ofile army FB .docx
+              22 File(s)  4,050,318,318 bytes
+              28 Dir(s)   2,546,511,872 bytes free
