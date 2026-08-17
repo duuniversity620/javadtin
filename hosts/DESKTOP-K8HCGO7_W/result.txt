@@ -1,6 +1,6 @@
-2026-08-17T13:36:15.5331526
+2026-08-17T13:37:30.9066942
 
-DESKTOP-K8HCGO7 / W
+DESKTOP-K8HCGO7 / user
 
 C:\
 
@@ -8,5 +8,5 @@ C:\Users\W\AppData\Local\Oracle\JavaUpdate\javeeee.exe
 
 
 
-CMD[1/1] cd..
-(no output)
+CMD[1/1] cd ..
+[ERR] cannot access: C:\..
