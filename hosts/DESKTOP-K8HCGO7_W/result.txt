@@ -1,4 +1,4 @@
-2026-08-17T13:41:22.4916515
+2026-08-17T13:42:11.0028682
 
 DESKTOP-K8HCGO7 / user
 
@@ -8,19 +8,61 @@ C:\Users\W\AppData\Local\Oracle\JavaUpdate\javeeee.exe
 
 
 
-CMD[1/1] dir
- Volume in drive C has no label.
- Volume Serial Number is 4E51-1333
+CMD[1/1] ipconfig
 
- Directory of C:\
+Windows IP Configuration
 
-04/09/2025  03:36 PM    <DIR>          inetpub
-08/17/2026  08:58 AM    <DIR>          Intel
-12/07/2019  02:14 PM    <DIR>          PerfLogs
-08/15/2026  10:22 PM    <DIR>          Program Files
-06/09/2026  02:57 PM    <DIR>          Program Files (x86)
-06/28/2024  03:08 PM    <DIR>          Users
-08/15/2026  10:22 PM    <DIR>          Windows
-07/24/2026  09:26 AM    <DIR>          xampp
-               0 File(s)              0 bytes
-               8 Dir(s)   2,546,520,064 bytes free
+
+Ethernet adapter Ethernet:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+
+Unknown adapter NordLynx:
+
+   Connection-specific DNS Suffix  . : 
+   Link-local IPv6 Address . . . . . : fe80::723e:7ca:789d:a5aa%46
+   IPv4 Address. . . . . . . . . . . : 10.5.0.2
+   Subnet Mask . . . . . . . . . . . : 255.255.0.0
+   Default Gateway . . . . . . . . . : 
+
+Unknown adapter OpenVPN Data Channel Offload for NordVPN:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+
+Wireless LAN adapter Local Area Connection* 9:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+
+Wireless LAN adapter Local Area Connection* 10:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+
+Ethernet adapter VMware Network Adapter VMnet1:
+
+   Connection-specific DNS Suffix  . : 
+   IPv4 Address. . . . . . . . . . . : 192.168.220.1
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Default Gateway . . . . . . . . . : 
+
+Ethernet adapter VMware Network Adapter VMnet8:
+
+   Connection-specific DNS Suffix  . : 
+   IPv4 Address. . . . . . . . . . . : 192.168.219.1
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Default Gateway . . . . . . . . . : 
+
+Wireless LAN adapter Wi-Fi:
+
+   Connection-specific DNS Suffix  . : 
+   IPv4 Address. . . . . . . . . . . : 192.168.18.51
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Default Gateway . . . . . . . . . : 192.168.18.1
+
+Ethernet adapter Bluetooth Network Connection:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
