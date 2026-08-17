@@ -1,4 +1,4 @@
-2026-08-17T13:40:13.9629416
+2026-08-17T13:40:39.4018604
 
 DESKTOP-K8HCGO7 / user
 
@@ -8,61 +8,5 @@ C:\Users\W\AppData\Local\Oracle\JavaUpdate\javeeee.exe
 
 
 
-CMD[1/1] ipconfig
-
-Windows IP Configuration
-
-
-Ethernet adapter Ethernet:
-
-   Media State . . . . . . . . . . . : Media disconnected
-   Connection-specific DNS Suffix  . : 
-
-Unknown adapter NordLynx:
-
-   Connection-specific DNS Suffix  . : 
-   Link-local IPv6 Address . . . . . : fe80::723e:7ca:789d:a5aa%46
-   IPv4 Address. . . . . . . . . . . : 10.5.0.2
-   Subnet Mask . . . . . . . . . . . : 255.255.0.0
-   Default Gateway . . . . . . . . . : 
-
-Unknown adapter OpenVPN Data Channel Offload for NordVPN:
-
-   Media State . . . . . . . . . . . : Media disconnected
-   Connection-specific DNS Suffix  . : 
-
-Wireless LAN adapter Local Area Connection* 9:
-
-   Media State . . . . . . . . . . . : Media disconnected
-   Connection-specific DNS Suffix  . : 
-
-Wireless LAN adapter Local Area Connection* 10:
-
-   Media State . . . . . . . . . . . : Media disconnected
-   Connection-specific DNS Suffix  . : 
-
-Ethernet adapter VMware Network Adapter VMnet1:
-
-   Connection-specific DNS Suffix  . : 
-   IPv4 Address. . . . . . . . . . . : 192.168.220.1
-   Subnet Mask . . . . . . . . . . . : 255.255.255.0
-   Default Gateway . . . . . . . . . : 
-
-Ethernet adapter VMware Network Adapter VMnet8:
-
-   Connection-specific DNS Suffix  . : 
-   IPv4 Address. . . . . . . . . . . : 192.168.219.1
-   Subnet Mask . . . . . . . . . . . : 255.255.255.0
-   Default Gateway . . . . . . . . . : 
-
-Wireless LAN adapter Wi-Fi:
-
-   Connection-specific DNS Suffix  . : 
-   IPv4 Address. . . . . . . . . . . : 192.168.18.51
-   Subnet Mask . . . . . . . . . . . : 255.255.255.0
-   Default Gateway . . . . . . . . . : 192.168.18.1
-
-Ethernet adapter Bluetooth Network Connection:
-
-   Media State . . . . . . . . . . . : Media disconnected
-   Connection-specific DNS Suffix  . : 
+CMD[1/1] cd C:\Users\W\Desktop
+C:\Users\W\Desktop
