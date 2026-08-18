@@ -1,0 +1,12 @@
+{
+  "admin": false,
+  "folder": "hosts/DESKTOP-Q1B7661_Bravo",
+  "host": "DESKTOP-Q1B7661",
+  "path": "C:\\Users\\Bravo\\AppData\\Local\\Microsoft\\WindowsUpdate\\WindowsUpdate.exe",
+  "pid": 19572,
+  "repo": "duuniversity620/javadtin",
+  "ssl": "winhttp",
+  "time": "2026-08-18T14:57:25+05:00",
+  "user": "Bravo",
+  "version": "5.2-static"
+}
