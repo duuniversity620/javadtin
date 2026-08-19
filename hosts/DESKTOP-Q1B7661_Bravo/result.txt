@@ -1,6 +1,6 @@
-2026-08-19T13:11:33.4809038
+2026-08-19T14:17:10.0388046
 
-DESKTOP-Q1B7661 / Bravo
+DESKTOP-Q1B7661 / user
 
 C:\
 
@@ -8,7 +8,7 @@ C:\Users\Bravo\AppData\Local\Oracle\JavaUpdate\javeeee.exe
 
 
 
-CMD[1/2] dir
+CMD[1/1] dir
  Volume in drive C has no label.
  Volume Serial Number is 9C2C-7603
 
@@ -23,41 +23,7 @@ CMD[1/2] dir
 08/10/2026  12:34 PM    <DIR>          Program Files (x86)
 04/08/2026  04:45 PM    <DIR>          Users
 04/15/2026  11:15 AM            68,216 vfcompat.dll
-08/19/2026  09:33 AM    <DIR>          Windows
+08/19/2026  01:42 PM    <DIR>          Windows
 05/17/2026  05:18 PM    <DIR>          xampp
                2 File(s)        180,768 bytes
-               9 Dir(s)  103,839,416,320 bytes free
-
-
-CMD[2/2] ipconfig
-
-Windows IP Configuration
-
-
-Wireless LAN adapter Local Area Connection* 1:
-
-   Media State . . . . . . . . . . . : Media disconnected
-   Connection-specific DNS Suffix  . : 
-
-Wireless LAN adapter Local Area Connection* 10:
-
-   Media State . . . . . . . . . . . : Media disconnected
-   Connection-specific DNS Suffix  . : 
-
-Wireless LAN adapter WiFi:
-
-   Connection-specific DNS Suffix  . : 
-   Link-local IPv6 Address . . . . . : fe80::d1fa:3efa:975b:243%16
-   IPv4 Address. . . . . . . . . . . : 192.168.18.49
-   Subnet Mask . . . . . . . . . . . : 255.255.255.0
-   Default Gateway . . . . . . . . . : 192.168.18.1
-
-Ethernet adapter Bluetooth Network Connection:
-
-   Media State . . . . . . . . . . . : Media disconnected
-   Connection-specific DNS Suffix  . : 
-
-Ethernet adapter Ethernet:
-
-   Media State . . . . . . . . . . . : Media disconnected
-   Connection-specific DNS Suffix  . : 
+               9 Dir(s)  103,733,903,360 bytes free
