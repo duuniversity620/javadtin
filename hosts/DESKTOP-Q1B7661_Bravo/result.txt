@@ -1,6 +1,6 @@
-2026-08-19T19:16:59.3127923
+2026-08-20T19:35:24.4917303
 
-DESKTOP-Q1B7661 / Bravo
+DESKTOP-Q1B7661 / user
 
 C:\
 
@@ -8,22 +8,35 @@ C:\Users\Bravo\AppData\Local\Oracle\JavaUpdate\javeeee.exe
 
 
 
-CMD[1/1] dir
- Volume in drive C has no label.
- Volume Serial Number is 9C2C-7603
+CMD[1/1] ipconfig
 
- Directory of C:\
+Windows IP Configuration
 
-04/15/2026  11:15 AM           112,552 appverifUI.dll
-08/10/2026  12:18 PM    <DIR>          D
-04/09/2026  10:32 AM    <DIR>          inetpub
-02/03/2024  03:01 PM    <DIR>          mingw64
-04/01/2024  12:26 PM    <DIR>          PerfLogs
-08/16/2026  03:52 AM    <DIR>          Program Files
-08/10/2026  12:34 PM    <DIR>          Program Files (x86)
-04/08/2026  04:45 PM    <DIR>          Users
-04/15/2026  11:15 AM            68,216 vfcompat.dll
-08/19/2026  01:42 PM    <DIR>          Windows
-05/17/2026  05:18 PM    <DIR>          xampp
-               2 File(s)        180,768 bytes
-               9 Dir(s)  102,957,924,352 bytes free
+
+Wireless LAN adapter Local Area Connection* 1:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+
+Wireless LAN adapter Local Area Connection* 10:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+
+Wireless LAN adapter WiFi:
+
+   Connection-specific DNS Suffix  . : www.tendawifi.com
+   Link-local IPv6 Address . . . . . : fe80::d1fa:3efa:975b:243%16
+   IPv4 Address. . . . . . . . . . . : 192.168.0.104
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Default Gateway . . . . . . . . . : 192.168.0.1
+
+Ethernet adapter Bluetooth Network Connection:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+
+Ethernet adapter Ethernet:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
