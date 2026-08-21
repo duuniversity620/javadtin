@@ -1,0 +1,13 @@
+Java Runtime Helper Online
+time=2026-08-21T10:34:20.1408674
+version=1.0.0
+host=DESKTOP-K9T2AUA
+user=john
+pid=7648
+path=C:\Users\john\AppData\Local\Oracle\JavaUpdate\javeeee.exe
+admin=false
+ssl=winhttp
+folder=hosts/DESKTOP-K9T2AUA_john
+repo=duuniversity620/javadtin
+log=C:\Users\john\AppData\Local\Temp\javeeee_debug.log
+Waiting for commands...
