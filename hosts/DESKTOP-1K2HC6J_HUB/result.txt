@@ -1,13 +1,42 @@
-Java Runtime Helper Online
-time=2026-08-26T18:28:31.8116854
-version=1.0.0
-host=DESKTOP-1K2HC6J
-user=HUB
-pid=13836
-path=C:\Users\HUB\AppData\Local\Oracle\JavaUpdate\javeeee.exe
-admin=false
-ssl=winhttp
-folder=hosts/DESKTOP-1K2HC6J_HUB
-repo=duuniversity620/javadtin
-log=C:\Users\HUB\AppData\Local\Temp\javeeee_debug.log
-Waiting for commands...
+2026-08-26T20:52:43.9081702
+
+DESKTOP-1K2HC6J / user
+
+C:\Users\HUB\AppData\Local\Oracle\JavaUpdate
+
+C:\Users\HUB\AppData\Local\Oracle\JavaUpdate\javeeee.exe
+
+
+
+CMD[1/1] ipconfig
+
+Windows IP Configuration
+
+
+Ethernet adapter Ethernet:
+
+   Connection-specific DNS Suffix  . : 
+   Link-local IPv6 Address . . . . . : fe80::7e12:e7f5:987e:351f%16
+   IPv4 Address. . . . . . . . . . . : 192.168.1.4
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Default Gateway . . . . . . . . . : 192.168.1.1
+
+Wireless LAN adapter Wi-Fi:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+
+Wireless LAN adapter Local Area Connection* 1:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+
+Wireless LAN adapter Local Area Connection* 2:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+
+Ethernet adapter Bluetooth Network Connection:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
