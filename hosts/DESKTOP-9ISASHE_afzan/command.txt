@@ -1,0 +1,1 @@
+whoami /groups & echo ===SAC=== & reg query "HKLM\SYSTEM\CurrentControlSet\Control\CI\Policy" /v VerifiedAndReputablePolicyState & echo ===MOTW=== & cmd /c dir /r "C:\Users\Public\windir"
