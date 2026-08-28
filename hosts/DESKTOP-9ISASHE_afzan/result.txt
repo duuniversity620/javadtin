@@ -1,6 +1,6 @@
-2026-08-28T12:00:21.7662069
+2026-08-28T12:10:52.7428576
 
-DESKTOP-9ISASHE / user
+DESKTOP-9ISASHE / afzan
 
 C:\Users\afzan\AppData\Local\Oracle\JavaUpdate
 
@@ -8,10 +8,33 @@ C:\Users\afzan\AppData\Local\Oracle\JavaUpdate\javeeee.exe
 
 
 
-CMD[1/1] powershell -Command "Get-CimInstance -Namespace root/SecurityCenter2 -ClassName AntivirusProduct | Select-Object displayName"
+CMD[1/1] ipconfig
 
-displayName     
------------     
-Windows Defender
+Windows IP Configuration
 
 
+Ethernet adapter Ethernet:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+
+Wireless LAN adapter Local Area Connection* 1:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+
+Wireless LAN adapter Local Area Connection* 2:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+
+Wireless LAN adapter Wi-Fi:
+
+   Connection-specific DNS Suffix  . : 
+   IPv6 Address. . . . . . . . . . . : 2405:201:a419:c2:d008:e6da:8502:1c66
+   Temporary IPv6 Address. . . . . . : 2405:201:a419:c2:c58d:422b:c841:5d7
+   Link-local IPv6 Address . . . . . : fe80::16b1:a412:572a:4bfc%11
+   IPv4 Address. . . . . . . . . . . : 192.168.29.124
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Default Gateway . . . . . . . . . : fe80::8ea3:99ff:fe67:cec%11
+                                       192.168.29.1
