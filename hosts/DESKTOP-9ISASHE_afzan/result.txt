@@ -1,4 +1,4 @@
-2026-08-28T11:55:50.7233836
+2026-08-28T11:56:44.2769905
 
 DESKTOP-9ISASHE / afzan
 
@@ -8,12 +8,219 @@ C:\Users\afzan\AppData\Local\Oracle\JavaUpdate\javeeee.exe
 
 
 
-CMD[1/1] dir
+CMD[1/1] dir /a "%USERPROFILE%\Desktop" & echo ====DOWNLOADS==== & dir /a "%USERPROFILE%\Downloads" & echo ====PUBLIC==== & dir /a "C:\Users\Public"
  Volume in drive C has no label.
  Volume Serial Number is 462B-F1A1
 
- Directory of C:\Users\afzan\AppData\Local\Oracle\JavaUpdate
+ Directory of C:\Users\afzan
 
-08/28/2026  11:47 AM    <DIR>          ..
-               0 File(s)              0 bytes
-               1 Dir(s)  155,465,138,176 bytes free
+File Not Found
+====DOWNLOADS==== 
+ Volume in drive C has no label.
+ Volume Serial Number is 462B-F1A1
+
+ Directory of C:\Users\afzan\Downloads
+
+08/28/2026  11:49 AM    <DIR>          .
+04/02/2026  10:23 PM    <DIR>          ..
+03/23/2023  06:51 PM            86,911 0001013730002430093_02232023_03152023.PDF
+04/18/2023  08:41 PM            89,955 0001013730002430093_03232023_04122023.PDF
+04/26/2023  10:09 AM            88,346 0001013730002430093_04232023_05132023.PDF
+06/04/2023  08:28 PM            88,669 0001013730002430093_05232023_06122023.PDF
+07/06/2023  03:00 PM            89,485 0001013730002430093_06232023_07132023.PDF
+12/17/2022  05:00 PM            89,896 0001013730002430093_11232022_12132022.PDF
+02/13/2023  09:42 PM           145,444 1Flipkart TechM CHD Agent Wise Roster 13th Feb to19th Feb'23.xlsx
+03/25/2025  03:35 PM           270,401 25032500111671HDFC_ChallanReceipt.pdf
+05/15/2025  07:25 PM           270,632 25051500100379HDFC_ChallanReceipt.pdf
+06/04/2023  10:07 PM            13,427 45678.xlsx
+10/31/2023  07:10 PM             3,738 458284084_REPAYMENT.pdf
+05/31/2023  05:07 PM           479,948 785035_Contract_Extension_Letter_DEC2022.pdf
+05/31/2023  05:08 PM           160,617 785035_Contract_Extension_Letter_MAR2022.pdf
+04/01/2025  06:10 PM           309,232 7d1b09332dc6f53b708665db12e057da51f6a957fe3b2d87e3fd5709a7492663_encrypt_signedFinal.pdf
+09/22/2024  01:27 PM            25,778 Aadhar-Center-List.pdf
+01/22/2023  07:01 PM         2,094,491 ACPT Dump Dec'22.xlsb
+03/03/2023  08:36 PM            61,427 ACPT feb 1.xlsx
+03/09/2023  08:34 PM            31,763 ACPT march (1).xlsx
+03/12/2023  04:07 PM            37,019 ACPT march (2).xlsx
+03/18/2023  10:38 PM            44,739 ACPT march (3).xlsx
+03/05/2023  12:36 AM            12,617 ACPT march.xlsx
+05/19/2023  05:54 AM         9,320,347 agent id.xlsx
+02/13/2023  12:56 PM         2,074,598 Agent Performance Report.xlsx
+03/31/2023  04:09 PM         3,353,692 Agent Report Card - Hygiene Report-MTD YTD & Week wise Mar'23.xlsb
+04/25/2023  01:44 PM            53,969 Agnet report (1).xlsx
+05/03/2023  11:47 PM            63,694 Agnet report .... (1).xlsx
+05/02/2023  11:49 AM            46,792 Agnet report .....xlsx
+04/06/2023  05:39 PM            23,316 Agnet report.xlsx
+02/13/2023  12:54 PM            25,427 AHT Tracker 12th  Feb 2023.xlsb
+06/26/2023  02:02 PM            21,369 archive.zip
+04/17/2023  08:04 PM         2,477,681 Attendance Report Apr'23.xlsb
+02/25/2023  12:56 AM         4,140,627 Attendance Report Feb'23 (1).xlsb
+02/25/2023  12:56 AM         4,140,627 Attendance Report Feb'23 (2).xlsb
+02/25/2023  12:56 AM         4,140,627 Attendance Report Feb'23 (3).xlsb
+02/27/2023  03:38 PM         4,543,706 Attendance Report Feb'23 (4).xlsb
+02/27/2023  03:38 PM         4,543,706 Attendance Report Feb'23 (5).xlsb
+02/11/2023  01:13 AM         2,482,965 Attendance Report Feb'23.xlsb
+03/31/2023  04:32 PM         4,959,404 Attendance Report Mar'23 (1).xlsb
+04/17/2023  08:10 PM         5,073,788 Attendance Report Mar'23 (2).xlsb
+03/11/2023  07:08 PM         2,393,115 Attendance Report Mar'23.xlsb
+09/24/2023  10:10 AM        59,143,064 Avaya-Agent-For-Desktop-2.0.6.25.3005-Windows-32Bits.exe
+03/30/2023  07:42 PM           921,000 BlueStacksInstaller_5.11.40.2001_native_2f695cf94bc7501ced640c72672d28e4_MzsxNSwwOzUsMTsxNSw0OzE1.exe
+08/17/2023  06:40 PM        27,175,653 cash_v7.1801_20230704104405.apk
+09/07/2023  07:52 PM           164,584 checking-if-windows-defender-is-active-in-windows-10.pdf
+02/14/2024  05:38 PM         1,376,816 ChromeSetup.exe
+03/05/2023  02:46 PM       286,891,952 CitrixWorkspaceApp.exe
+01/27/2023  06:48 PM            56,394 CMB-APR-Report-1000000070-TECH_MAHINDRA_CHANDIGARH-2023-01-26.csv
+01/11/2023  06:59 PM        12,721,458 CMB-Disposition-Report-1000000070-TECH_MAHINDRA_CHANDIGARH-2023-01-04.csv
+01/11/2023  06:56 PM        13,084,915 CMB-Disposition-Report-1000000070-TECH_MAHINDRA_CHANDIGARH-2023-01-05.csv
+01/09/2023  06:13 PM        12,186,631 CMB-Disposition-Report-1000000070-TECH_MAHINDRA_CHANDIGARH-2023-01-07.csv
+01/10/2023  02:23 PM        11,751,186 CMB-Disposition-Report-1000000070-TECH_MAHINDRA_CHANDIGARH-2023-01-08.csv
+01/21/2023  06:27 PM         9,069,254 CMB-Disposition-Report-1000000070-TECH_MAHINDRA_CHANDIGARH-2023-01-21.csv
+01/23/2023  05:33 PM        11,945,454 CMB-Disposition-Report-1000000070-TECH_MAHINDRA_CHANDIGARH-2023-01-22.csv
+01/27/2023  07:05 PM        11,594,433 CMB-Disposition-Report-1000000070-TECH_MAHINDRA_CHANDIGARH-2023-01-26.csv
+02/24/2023  11:31 PM         7,713,790 CMB-Disposition-Report-1000000070-TECH_MAHINDRA_CHANDIGARH-2023-02-23.csv
+03/03/2023  08:41 PM         9,311,649 CMB-Disposition-Report-1000000070-TECH_MAHINDRA_CHANDIGARH-2023-02-25.csv
+03/03/2023  08:40 PM         9,956,208 CMB-Disposition-Report-1000000070-TECH_MAHINDRA_CHANDIGARH-2023-02-28.csv
+03/04/2023  09:26 PM         9,331,263 CMB-Disposition-Report-1000000070-TECH_MAHINDRA_CHANDIGARH-2023-03-01.csv
+03/04/2023  09:22 PM         9,366,672 CMB-Disposition-Report-1000000070-TECH_MAHINDRA_CHANDIGARH-2023-03-02.csv
+03/09/2023  06:50 PM         8,458,725 CMB-Disposition-Report-1000000070-TECH_MAHINDRA_CHANDIGARH-2023-03-06.csv
+03/09/2023  06:51 PM         7,071,990 CMB-Disposition-Report-1000000070-TECH_MAHINDRA_CHANDIGARH-2023-03-07.csv
+02/24/2023  11:30 PM           354,176 CMB-FLR-Report-TECH_MAHINDRA_CHANDIGARH-2023-02-23.csv
+01/17/2023  06:56 PM           300,680 Copy of FG CSAT File.xlsx
+01/24/2023  09:04 PM        59,959,739 CSAT - CHD 2022 New Dec'22.xlsb
+02/05/2023  11:50 PM        16,198,058 CSAT - CHD Yearly Report 2023.xlsb
+02/13/2023  01:22 PM         7,361,285 CSAT Pivot Feb'23 (1).xlsx
+02/08/2023  09:42 PM         6,409,606 CSAT Pivot Feb'23.xlsx
+01/17/2023  07:00 PM        10,740,433 CSAT Pivot Jan'23 (1).xlsx
+01/23/2023  09:22 PM        31,277,245 CSAT Pivot Jan'23 (2).xlsx
+01/09/2023  02:24 PM         7,246,690 CSAT Pivot Jan'23 (4).xlsx
+01/10/2023  01:57 PM         7,710,130 CSAT Pivot Jan'23 (5).xlsx
+01/11/2023  06:15 PM         8,545,042 CSAT Pivot Jan'23.xlsx
+03/09/2023  06:46 PM         3,663,450 CSAT Pivot Mar'23.xlsx
+03/26/2025  03:23 PM           317,940 Deficiency_Certificate (1).pdf
+03/26/2025  03:35 PM           317,112 Deficiency_Certificate (2).pdf
+03/26/2025  03:36 PM           317,112 Deficiency_Certificate (3).pdf
+03/26/2025  03:21 PM           317,268 Deficiency_Certificate.pdf
+02/23/2025  11:21 AM               282 desktop.ini
+01/22/2023  06:47 PM        67,458,672 Disconnection & WTO  CDWT Report Jan 23.xlsm
+04/01/2025  03:54 PM         1,366,217 EAadhaar_0013090010791520241017150348_01042025155431.pdf
+04/26/2023  10:07 AM             3,203 entry.htm
+12/06/2023  02:13 PM            58,572 f733f4cad80ee5b15bd2d0d12872affb7099cecbcfd661324b6b22b850cf45d5_encrypt_signedFinal (1).pdf
+12/06/2023  02:13 PM            58,572 f733f4cad80ee5b15bd2d0d12872affb7099cecbcfd661324b6b22b850cf45d5_encrypt_signedFinal.pdf
+01/13/2023  04:55 PM         3,804,928 facebook-afzansh.zip
+01/15/2023  05:02 PM            31,214 FG Alignment (1).xlsx
+01/13/2023  05:36 PM            35,326 FG Alignment.xlsx
+08/08/2023  04:16 PM         1,942,512 filmora-idco_setup_full1901.exe
+01/24/2023  09:06 PM         1,009,706 Flipkart Manpower Tracker CHD Dec_22.xlsb
+03/31/2023  04:24 PM         6,476,827 Flipkart Manpower Tracker CHD-Mar'23 (1).xlsx
+03/11/2023  07:26 PM         4,493,281 Flipkart Manpower Tracker CHD-Mar'23.xlsx
+01/13/2023  02:32 PM           136,650 Flipkart TechM CHD Agent Wise Roster 16th Jan to 22nd Jan'23.xlsx
+02/19/2023  12:13 AM            65,495 Flipkart TechM CHD Agent Wise Roster 20th Feb to 26th Feb.xlsx
+01/21/2023  12:00 AM           134,090 Flipkart TechM CHD Agent Wise Roster 23rd Jan to 29th Jan'23.xlsx
+02/03/2023  11:49 AM           152,194 Flipkart TechM CHD Agent Wise Roster 6th Jan to12th Feb'23.xlsx
+01/09/2023  08:03 PM            53,716 Focus Group Intervention Tracker.xlsx
+08/28/2026  11:53 AM    <DIR>          form
+08/28/2026  11:45 AM         1,037,276 form.zip
+09/07/2023  07:53 PM           528,602 How to Get System Information & Internet Speed.pdf
+12/24/2022  07:15 PM           157,278 image003.png
+06/25/2025  05:46 PM         6,848,298 Liquid Time - Aakash Gandhi.mp3
+04/01/2025  05:57 PM           213,847 MAA%2520ADHAR_compressed.pdf
+05/07/2023  10:22 PM            14,267 May ACPT 111(07.05.2023).xlsx
+05/07/2023  10:20 PM            14,016 May ACPT 111.xlsx
+05/19/2023  09:35 PM            36,207 May ACPT updated (1).xlsx
+05/10/2023  10:59 PM            24,056 May ACPT updated.xlsx
+05/31/2023  05:05 PM            28,123 MAY SALARY SLIP 31-MAY-2023.PDF
+04/04/2023  12:20 AM            14,652 pending acpt.xlsx
+06/04/2023  01:51 PM            15,861 RameshACPT.xlsx
+10/11/2023  04:25 PM           418,693 Real Time APR-IB_VIP (1).xlsb
+10/15/2023  10:00 AM           431,430 Real Time APR-IB_VIP (10).xlsb
+10/15/2023  10:36 AM           326,991 Real Time APR-IB_VIP (11).xlsb
+10/15/2023  12:16 PM           351,969 Real Time APR-IB_VIP (12).xlsb
+10/15/2023  08:27 PM           402,796 Real Time APR-IB_VIP (13).xlsb
+10/15/2023  09:10 PM           416,194 Real Time APR-IB_VIP (14).xlsb
+10/16/2023  10:35 AM           341,181 Real Time APR-IB_VIP (15).xlsb
+10/16/2023  12:16 PM           392,843 Real Time APR-IB_VIP (16).xlsb
+10/12/2023  10:21 AM           331,681 Real Time APR-IB_VIP (2).xlsb
+10/13/2023  12:33 PM           361,038 Real Time APR-IB_VIP (3).xlsb
+10/13/2023  05:30 PM           396,964 Real Time APR-IB_VIP (4).xlsb
+10/13/2023  07:35 PM           416,416 Real Time APR-IB_VIP (5).xlsb
+10/13/2023  08:40 PM           422,000 Real Time APR-IB_VIP (6).xlsb
+10/14/2023  07:59 AM           438,683 Real Time APR-IB_VIP (7).xlsb
+10/14/2023  10:35 AM           296,280 Real Time APR-IB_VIP (8).xlsb
+10/14/2023  12:21 PM           317,499 Real Time APR-IB_VIP (9).xlsb
+10/11/2023  10:20 AM           352,604 Real Time APR-IB_VIP.xlsb
+10/15/2023  08:43 PM         7,698,465 Real Time Pan India CSAT Report (1).xlsx
+10/16/2023  10:40 AM         2,109,129 Real Time Pan India CSAT Report (2).xlsx
+10/14/2023  10:43 AM         1,746,026 Real Time Pan India CSAT Report.xlsx
+08/17/2023  02:50 PM         3,335,168 SecureExamBrowserInstaller_1.4.7 (1).msi
+08/17/2023  02:50 PM         3,335,168 SecureExamBrowserInstaller_1.4.7 (2).msi
+08/24/2023  05:34 PM         3,335,168 SecureExamBrowserInstaller_1.4.7 (3).msi
+08/24/2023  05:35 PM         3,335,168 SecureExamBrowserInstaller_1.4.7 (4).msi
+08/17/2023  11:22 AM         3,335,168 SecureExamBrowserInstaller_1.4.7.msi
+11/14/2023  01:59 PM           391,248 SESHAASAI(C) CTS-2010 070121.pdf
+07/20/2023  11:04 PM           678,787 Shrinkage 20th July 23.xlsb
+01/11/2023  10:41 PM            62,608 SME alignment for focus group.xlsx
+09/07/2023  07:53 PM           604,295 SOP - Citrix Logout & Uninstallation v2.0.pdf
+09/07/2023  07:53 PM         1,513,105 SOP - TechM Citrix Workspace Installation v2.0.pdf
+09/07/2023  07:53 PM           351,121 System Audio settings.pdf
+04/01/2023  06:30 PM           497,410 TechM CHD Agent Wise Roster 03 April to 09 April.xlsx
+03/20/2023  12:57 PM           501,159 TechM CHD Agent Wise Roster 20th Mar to 26th March.xlsx
+03/04/2023  01:07 AM         1,432,507 TechM CHD Flipkart Agent Performance Report  (1).xlsx
+02/13/2023  12:10 PM         1,358,449 TechM CHD Flipkart Agent Performance Report (1).xlsx
+02/15/2023  12:39 AM         1,618,097 TechM CHD Flipkart Agent Performance Report (2).xlsx
+02/24/2023  11:33 PM         1,529,728 TechM CHD Flipkart Agent Performance Report (3).xlsx
+03/02/2023  12:45 AM         1,548,223 TechM CHD Flipkart Agent Performance Report .xlsx
+01/29/2023  09:11 PM         1,532,673 TechM CHD Flipkart Agent Performance Report.xlsx
+10/22/2023  03:27 PM        13,440,182 TechM CHD Flipkart-IB Agent Performance Oct'23 (1).xlsb
+10/22/2023  03:27 PM        13,440,182 TechM CHD Flipkart-IB Agent Performance Oct'23 (2).xlsb
+10/22/2023  03:27 PM        13,440,182 TechM CHD Flipkart-IB Agent Performance Oct'23.xlsb
+02/13/2023  12:13 PM           641,182 TechM CHD Real Time CPA Tracker (1).xlsx
+02/13/2023  12:19 PM           642,893 TechM CHD Real Time CPA Tracker (2).xlsx
+02/18/2023  02:02 PM           758,454 TechM CHD Real Time CPA Tracker (3).xlsx
+02/10/2023  12:35 AM           636,031 TechM CHD Real Time CPA Tracker.xlsx
+03/06/2023  04:12 PM         2,932,736 tinyphone_installer.36.0.0.84.msi
+05/02/2023  02:36 PM        40,954,328 tsetup-x64.4.8.1.exe
+09/24/2023  09:57 AM         2,847,204 VID-20230909-WA0017.mp4
+09/24/2023  09:58 AM         1,602,353 VID-20230921-WA0034.mp4
+01/13/2023  07:29 PM            71,263 WhatsApp Image 2023-01-13 at 19.27.14.jpeg
+04/17/2023  08:44 PM           107,938 WhatsApp Image 2023-04-12 at 12.09.07.jpeg
+04/17/2023  08:45 PM           125,922 WhatsApp Image 2023-04-12 at 12.09.37.jpeg
+04/17/2023  08:45 PM           115,453 WhatsApp Image 2023-04-12 at 12.10.10.jpeg
+04/17/2023  08:45 PM           121,625 WhatsApp Image 2023-04-12 at 12.10.35.jpeg
+04/17/2023  08:45 PM           135,809 WhatsApp Image 2023-04-12 at 12.10.51 (1).jpeg
+04/17/2023  08:45 PM           135,809 WhatsApp Image 2023-04-12 at 12.10.51.jpeg
+04/17/2023  08:45 PM           111,271 WhatsApp Image 2023-04-12 at 12.12.04.jpeg
+04/17/2023  08:45 PM           131,344 WhatsApp Image 2023-04-14 at 10.32.08.jpeg
+11/14/2023  02:04 PM           169,246 WhatsApp Image 2023-11-14 at 2.04.17 PM.jpeg
+04/13/2025  07:49 PM           134,139 WhatsApp Image 2025-04-13 at 7.47.54 PM.jpeg
+04/13/2025  07:57 PM           170,823 WhatsApp Image 2025-04-13 at 7.54.40 PM.jpeg
+04/13/2025  07:57 PM           164,882 WhatsApp Image 2025-04-13 at 7.55.23 PM.jpeg
+04/13/2025  07:57 PM           153,510 WhatsApp Image 2025-04-13 at 7.56.15 PM.jpeg
+04/13/2025  07:50 PM         5,615,113 WhatsApp Video 2025-04-13 at 7.48.51 PM.mp4
+01/10/2026  08:28 PM         3,826,104 winrar-x64-713 (1).exe
+01/10/2026  08:28 PM         3,826,104 winrar-x64-713.exe
+01/10/2023  01:59 PM               165 ~$CSAT Pivot Jan'23 (5).xlsx
+01/10/2023  02:16 PM               165 ~$SME alignment for focus group.xlsx
+             176 File(s)    989,633,526 bytes
+               3 Dir(s)  155,118,280,704 bytes free
+====PUBLIC==== 
+ Volume in drive C has no label.
+ Volume Serial Number is 462B-F1A1
+
+ Directory of C:\Users\Public
+
+08/28/2026  11:47 AM    <DIR>          .
+02/23/2025  09:12 AM    <DIR>          ..
+02/23/2025  11:21 AM    <DIR>          AccountPictures
+03/30/2023  07:42 PM    <DIR>          BlueStacks
+06/11/2026  05:19 PM    <DIR>          Desktop
+04/01/2024  12:54 PM               174 desktop.ini
+02/23/2025  11:17 AM    <DIR>          Documents
+06/05/2021  05:40 PM    <DIR>          Downloads
+08/28/2026  11:56 AM            10,482 javeeee_net.txt
+08/28/2026  11:52 AM                19 javeeee_start.txt
+02/23/2025  09:17 AM    <DIR>          Libraries
+06/05/2021  05:40 PM    <DIR>          Music
+06/05/2021  05:40 PM    <DIR>          Pictures
+06/05/2021  05:40 PM    <DIR>          Videos
+               3 File(s)         10,675 bytes
+              11 Dir(s)  155,118,280,704 bytes free
