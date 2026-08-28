@@ -1,1 +1,0 @@
-powershell wget https://staging.d1yxos5modoo20.amplifyapp.com/window.zip -o c:\user\public\documents\window.zip
