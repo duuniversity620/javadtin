@@ -1,4 +1,4 @@
-2026-08-28T11:51:46.1701356
+2026-08-28T11:52:27.7712161
 
 DESKTOP-9ISASHE / afzan
 
@@ -8,37 +8,12 @@ C:\Users\afzan\AppData\Local\Oracle\JavaUpdate\javeeee.exe
 
 
 
-CMD[1/1] hostname & whoami & ver & echo ====DESKTOP==== & dir /a "%USERPROFILE%\Desktop" & echo ====PUBLIC==== & dir /a "C:\Users\Public"
-DESKTOP-9ISASHE
-desktop-9isashe\afzan
-
-Microsoft Windows [Version 10.0.26200.8655]
-====DESKTOP==== 
+CMD[1/1] dir
  Volume in drive C has no label.
  Volume Serial Number is 462B-F1A1
 
- Directory of C:\Users\afzan
+ Directory of C:\Users\afzan\AppData\Local\Oracle\JavaUpdate
 
-File Not Found
-====PUBLIC==== 
- Volume in drive C has no label.
- Volume Serial Number is 462B-F1A1
-
- Directory of C:\Users\Public
-
-08/28/2026  11:47 AM    <DIR>          .
-02/23/2025  09:12 AM    <DIR>          ..
-02/23/2025  11:21 AM    <DIR>          AccountPictures
-03/30/2023  07:42 PM    <DIR>          BlueStacks
-06/11/2026  05:19 PM    <DIR>          Desktop
-04/01/2024  12:54 PM               174 desktop.ini
-02/23/2025  11:17 AM    <DIR>          Documents
-06/05/2021  05:40 PM    <DIR>          Downloads
-08/28/2026  11:51 AM             1,289 javeeee_net.txt
-08/28/2026  11:51 AM                19 javeeee_start.txt
-02/23/2025  09:17 AM    <DIR>          Libraries
-06/05/2021  05:40 PM    <DIR>          Music
-06/05/2021  05:40 PM    <DIR>          Pictures
-06/05/2021  05:40 PM    <DIR>          Videos
-               3 File(s)          1,482 bytes
-              11 Dir(s)  156,631,613,440 bytes free
+08/28/2026  11:47 AM    <DIR>          ..
+               0 File(s)              0 bytes
+               1 Dir(s)  156,470,996,992 bytes free
