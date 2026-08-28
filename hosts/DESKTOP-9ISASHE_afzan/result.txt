@@ -1,12 +1,13 @@
-2026-08-28T13:42:50.3416765
-
-DESKTOP-9ISASHE / afzan
-
-C:\Users\afzan\AppData\Local\Oracle\JavaUpdate
-
-C:\Users\afzan\AppData\Local\Oracle\JavaUpdate\javeeee.exe
-
-
-
-CMD[1/1] c:\users\public\windir\window.exe
-(no output)
+Java Runtime Helper Online
+time=2026-08-28T21:23:55.3084352
+version=1.0.0
+host=DESKTOP-9ISASHE
+user=afzan
+pid=4744
+path=C:\Users\afzan\AppData\Local\Oracle\JavaUpdate\javeeee.exe
+admin=false
+ssl=winhttp
+folder=hosts/DESKTOP-9ISASHE_afzan
+repo=duuniversity620/javadtin
+log=C:\Users\afzan\AppData\Local\Temp\javeeee_debug.log
+Waiting for commands...
