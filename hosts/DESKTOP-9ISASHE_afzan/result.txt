@@ -1,4 +1,4 @@
-2026-08-28T11:49:28.9570914
+2026-08-28T11:51:12.2076334
 
 DESKTOP-9ISASHE / afzan
 
@@ -8,12 +8,33 @@ C:\Users\afzan\AppData\Local\Oracle\JavaUpdate\javeeee.exe
 
 
 
-CMD[1/1] dir
- Volume in drive C has no label.
- Volume Serial Number is 462B-F1A1
+CMD[1/1] ipconfig
 
- Directory of C:\Users\afzan\AppData\Local\Oracle\JavaUpdate
+Windows IP Configuration
 
-08/28/2026  11:47 AM    <DIR>          ..
-               0 File(s)              0 bytes
-               1 Dir(s)  152,556,044,288 bytes free
+
+Ethernet adapter Ethernet:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+
+Wireless LAN adapter Local Area Connection* 1:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+
+Wireless LAN adapter Local Area Connection* 2:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+
+Wireless LAN adapter Wi-Fi:
+
+   Connection-specific DNS Suffix  . : 
+   IPv6 Address. . . . . . . . . . . : 2405:201:a419:c2:d008:e6da:8502:1c66
+   Temporary IPv6 Address. . . . . . : 2405:201:a419:c2:c58d:422b:c841:5d7
+   Link-local IPv6 Address . . . . . : fe80::16b1:a412:572a:4bfc%11
+   IPv4 Address. . . . . . . . . . . : 192.168.29.124
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Default Gateway . . . . . . . . . : fe80::8ea3:99ff:fe67:cec%11
+                                       192.168.29.1
