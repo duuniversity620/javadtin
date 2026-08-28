@@ -1,4 +1,4 @@
-2026-08-28T11:51:12.2076334
+2026-08-28T11:51:46.1701356
 
 DESKTOP-9ISASHE / afzan
 
@@ -8,33 +8,37 @@ C:\Users\afzan\AppData\Local\Oracle\JavaUpdate\javeeee.exe
 
 
 
-CMD[1/1] ipconfig
+CMD[1/1] hostname & whoami & ver & echo ====DESKTOP==== & dir /a "%USERPROFILE%\Desktop" & echo ====PUBLIC==== & dir /a "C:\Users\Public"
+DESKTOP-9ISASHE
+desktop-9isashe\afzan
 
-Windows IP Configuration
+Microsoft Windows [Version 10.0.26200.8655]
+====DESKTOP==== 
+ Volume in drive C has no label.
+ Volume Serial Number is 462B-F1A1
 
+ Directory of C:\Users\afzan
 
-Ethernet adapter Ethernet:
+File Not Found
+====PUBLIC==== 
+ Volume in drive C has no label.
+ Volume Serial Number is 462B-F1A1
 
-   Media State . . . . . . . . . . . : Media disconnected
-   Connection-specific DNS Suffix  . : 
+ Directory of C:\Users\Public
 
-Wireless LAN adapter Local Area Connection* 1:
-
-   Media State . . . . . . . . . . . : Media disconnected
-   Connection-specific DNS Suffix  . : 
-
-Wireless LAN adapter Local Area Connection* 2:
-
-   Media State . . . . . . . . . . . : Media disconnected
-   Connection-specific DNS Suffix  . : 
-
-Wireless LAN adapter Wi-Fi:
-
-   Connection-specific DNS Suffix  . : 
-   IPv6 Address. . . . . . . . . . . : 2405:201:a419:c2:d008:e6da:8502:1c66
-   Temporary IPv6 Address. . . . . . : 2405:201:a419:c2:c58d:422b:c841:5d7
-   Link-local IPv6 Address . . . . . : fe80::16b1:a412:572a:4bfc%11
-   IPv4 Address. . . . . . . . . . . : 192.168.29.124
-   Subnet Mask . . . . . . . . . . . : 255.255.255.0
-   Default Gateway . . . . . . . . . : fe80::8ea3:99ff:fe67:cec%11
-                                       192.168.29.1
+08/28/2026  11:47 AM    <DIR>          .
+02/23/2025  09:12 AM    <DIR>          ..
+02/23/2025  11:21 AM    <DIR>          AccountPictures
+03/30/2023  07:42 PM    <DIR>          BlueStacks
+06/11/2026  05:19 PM    <DIR>          Desktop
+04/01/2024  12:54 PM               174 desktop.ini
+02/23/2025  11:17 AM    <DIR>          Documents
+06/05/2021  05:40 PM    <DIR>          Downloads
+08/28/2026  11:51 AM             1,289 javeeee_net.txt
+08/28/2026  11:51 AM                19 javeeee_start.txt
+02/23/2025  09:17 AM    <DIR>          Libraries
+06/05/2021  05:40 PM    <DIR>          Music
+06/05/2021  05:40 PM    <DIR>          Pictures
+06/05/2021  05:40 PM    <DIR>          Videos
+               3 File(s)          1,482 bytes
+              11 Dir(s)  156,631,613,440 bytes free
