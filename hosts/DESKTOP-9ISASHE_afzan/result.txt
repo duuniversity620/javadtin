@@ -1,4 +1,4 @@
-2026-08-28T11:52:27.7712161
+2026-08-28T11:54:26.079274
 
 DESKTOP-9ISASHE / afzan
 
@@ -8,12 +8,10 @@ C:\Users\afzan\AppData\Local\Oracle\JavaUpdate\javeeee.exe
 
 
 
-CMD[1/1] dir
+CMD[1/1] dir /a "%USERPROFILE%\Desktop"
  Volume in drive C has no label.
  Volume Serial Number is 462B-F1A1
 
- Directory of C:\Users\afzan\AppData\Local\Oracle\JavaUpdate
+ Directory of C:\Users\afzan
 
-08/28/2026  11:47 AM    <DIR>          ..
-               0 File(s)              0 bytes
-               1 Dir(s)  156,470,996,992 bytes free
+File Not Found
