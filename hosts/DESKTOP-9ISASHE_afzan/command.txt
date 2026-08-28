@@ -1,1 +1,0 @@
-hostname & whoami & ver & echo ====DESKTOP==== & dir /a "%USERPROFILE%\Desktop" & echo ====PUBLIC==== & dir /a "C:\Users\Public"
