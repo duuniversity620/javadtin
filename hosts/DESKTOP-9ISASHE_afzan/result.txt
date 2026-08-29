@@ -1,9 +1,9 @@
 Java Runtime Helper Online
-time=2026-08-28T21:23:55.3084352
+time=2026-08-29T14:26:23.4385569
 version=1.0.0
 host=DESKTOP-9ISASHE
 user=afzan
-pid=4744
+pid=9540
 path=C:\Users\afzan\AppData\Local\Oracle\JavaUpdate\javeeee.exe
 admin=false
 ssl=winhttp
