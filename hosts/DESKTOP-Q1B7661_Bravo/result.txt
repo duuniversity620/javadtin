@@ -1,4 +1,4 @@
-2026-08-24T21:20:23.6052883
+2026-09-05T09:59:57.6234178
 
 DESKTOP-Q1B7661 / Bravo
 
@@ -8,37 +8,5 @@ C:\Users\Bravo\AppData\Local\Oracle\JavaUpdate\javeeee.exe
 
 
 
-CMD[1/1] dir
- Volume in drive C has no label.
- Volume Serial Number is 9C2C-7603
-
- Directory of C:\Users\Bravo
-
-08/24/2026  09:08 AM    <DIR>          .
-04/08/2026  04:45 PM    <DIR>          ..
-04/20/2026  12:50 PM             6,579 -1.14-windows.xml
-04/20/2026  03:40 PM    <DIR>          .android
-07/11/2026  06:21 PM           708,661 .c2agent.log
-08/01/2026  04:44 PM            94,061 .docs_sync_Bravo_DESKTOP-Q1B7661.json
-06/20/2026  03:54 PM    <DIR>          .MemuHyperv
-07/23/2026  08:38 PM               145 .python_history
-06/26/2026  04:04 PM         5,328,122 .shah.exe
-06/26/2026  12:45 PM            11,580 .shah.py
-08/02/2026  11:20 PM    <DIR>          .ssh
-06/26/2026  02:41 PM    <DIR>          Contacts
-04/20/2026  03:35 PM    <DIR>          CrossDevice
-08/15/2026  05:02 PM    <DIR>          Desktop
-08/13/2026  10:25 AM    <DIR>          Documents
-08/24/2026  09:10 PM    <DIR>          Downloads
-04/08/2026  10:18 AM    <DIR>          Favorites
-06/23/2026  10:36 PM                 0 github_sync.log
-04/08/2026  10:18 AM    <DIR>          Links
-04/20/2026  02:16 PM    <DIR>          Music
-07/13/2026  10:19 PM    <DIR>          nimcache
-08/24/2026  07:16 PM    <DIR>          OneDrive
-04/08/2026  10:18 AM    <DIR>          Saved Games
-04/08/2026  10:25 AM    <DIR>          Searches
-08/11/2026  05:41 PM    <DIR>          Videos
-08/16/2026  12:18 AM    <DIR>          WPS Cloud
-               7 File(s)      6,149,148 bytes
-              19 Dir(s)  112,322,879,488 bytes free
+CMD[1/1] ipconfig
+[ERR] CreateProcess failed
