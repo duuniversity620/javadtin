@@ -1,12 +1,29 @@
-2026-09-05T09:59:57.6234178
+2026-09-05T10:02:46.8537677
 
-DESKTOP-Q1B7661 / Bravo
+DESKTOP-Q1B7661 / user
 
-C:\Users\Bravo
+C:\
 
 C:\Users\Bravo\AppData\Local\Oracle\JavaUpdate\javeeee.exe
 
 
 
-CMD[1/1] ipconfig
-[ERR] CreateProcess failed
+CMD[1/1] dir
+ Volume in drive C has no label.
+ Volume Serial Number is 9C2C-7603
+
+ Directory of C:\
+
+04/15/2026  11:15 AM           112,552 appverifUI.dll
+08/10/2026  12:18 PM    <DIR>          D
+04/09/2026  10:32 AM    <DIR>          inetpub
+02/03/2024  03:01 PM    <DIR>          mingw64
+04/01/2024  12:26 PM    <DIR>          PerfLogs
+09/03/2026  09:23 AM    <DIR>          Program Files
+08/10/2026  12:34 PM    <DIR>          Program Files (x86)
+04/08/2026  04:45 PM    <DIR>          Users
+04/15/2026  11:15 AM            68,216 vfcompat.dll
+09/03/2026  09:25 AM    <DIR>          Windows
+05/17/2026  05:18 PM    <DIR>          xampp
+               2 File(s)        180,768 bytes
+               9 Dir(s)  110,045,204,480 bytes free
